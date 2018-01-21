@@ -1,0 +1,1019 @@
+
+-- 2018-01-19 00:04:14.281 Unknown: rotated log. app version 1.17.13
+-- 2018-01-19 00:04:14.281 RemoteFilesProxy::get: fileUuid:  553d874b-32c7-7d63-1935-0df6588e217a  sha1:  7ab2b57050f6c60a371c36015a196ae2564183b8 
+-- 2018-01-19 00:04:14.281 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  553d874b-32c7-7d63-1935-0df6588e217a 
+-- 2018-01-19 00:04:14.281 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  553d874b-32c7-7d63-1935-0df6588e217a 
+-- 2018-01-19 00:04:15.536 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  361882 
+-- 2018-01-19 00:04:15.540 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 00:04:15.603 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf hash 7ab2b57050f6c60a371c36015a196ae2564183b8 
+-- 2018-01-19 00:04:16.209 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 00:04:16.318 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 00:04:19.717 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf hash 208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 00:04:31.186 RemoteFilesProxy::get: fileUuid:  55daf4db-6858-84c9-3afa-1c8b400e181a  sha1:  e2b69e55bb1ffc79697e5dd54501e42ea4a9c933 
+-- 2018-01-19 00:04:31.186 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  55daf4db-6858-84c9-3afa-1c8b400e181a 
+-- 2018-01-19 00:04:31.186 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  55daf4db-6858-84c9-3afa-1c8b400e181a 
+-- 2018-01-19 00:04:32.112 RemoteFilesProxy::get: fileUuid:  55daf4db-6858-84c9-3afa-1c8b400e181a  sha1:  e2b69e55bb1ffc79697e5dd54501e42ea4a9c933 
+-- 2018-01-19 00:04:32.114 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  55daf4db-6858-84c9-3afa-1c8b400e181a 
+-- 2018-01-19 00:04:32.114 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  55daf4db-6858-84c9-3afa-1c8b400e181a 
+-- 2018-01-19 00:04:33.114 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  854277 
+-- 2018-01-19 00:04:33.118 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production and.pdf 
+-- 2018-01-19 00:04:33.134 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production and.pdf hash e2b69e55bb1ffc79697e5dd54501e42ea4a9c933 
+-- 2018-01-19 00:04:33.304 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production and.pdf 
+-- 2018-01-19 00:04:33.329 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  854277 
+-- 2018-01-19 00:04:33.333 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production (2).pdf 
+-- 2018-01-19 00:04:33.455 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production (2).pdf 
+-- 2018-01-19 00:04:46.370 RemoteFilesProxy::get: fileUuid:  2de5f0f6-19fd-a3ad-0542-47e882993be6  sha1:  131fa90d5108871128a0ba471f8a321336a052d8 
+-- 2018-01-19 00:04:46.370 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  2de5f0f6-19fd-a3ad-0542-47e882993be6 
+-- 2018-01-19 00:04:46.370 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  2de5f0f6-19fd-a3ad-0542-47e882993be6 
+-- 2018-01-19 00:04:47.968 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  623480 
+-- 2018-01-19 00:04:47.972 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf 
+-- 2018-01-19 00:04:47.985 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf hash 131fa90d5108871128a0ba471f8a321336a052d8 
+-- 2018-01-19 00:04:48.088 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf 
+-- 2018-01-19 00:05:18.705 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 00:05:18.705 SyncQueue::startSync: starting sync 
+-- 2018-01-19 00:05:19.305 SyncQueue::finished: sync completed in 599 ms 
+-- 2018-01-19 00:05:19.305 SyncQueue::startSync: starting sync 
+-- 2018-01-19 00:05:19.999 SyncQueue::finished: sync completed in 694 ms 
+-- 2018-01-19 00:05:20.050 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 00:06:58.481 RemoteFilesProxy::get: fileUuid:  3a2ce940-efa2-7c1b-77a4-020316de1496  sha1:  87dcea401bd0993269489cfe46970f020656c9dd 
+-- 2018-01-19 00:06:58.481 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  3a2ce940-efa2-7c1b-77a4-020316de1496 
+-- 2018-01-19 00:06:58.481 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  3a2ce940-efa2-7c1b-77a4-020316de1496 
+-- 2018-01-19 00:07:01.723 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  5332990 
+-- 2018-01-19 00:07:01.729 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf 
+-- 2018-01-19 00:07:01.743 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf hash 87dcea401bd0993269489cfe46970f020656c9dd 
+-- 2018-01-19 00:07:01.855 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf 
+-- 2018-01-19 00:08:16.002 RemoteFilesProxy::get: fileUuid:  26192528-8c2e-be13-2db3-8b8dbc79398e  sha1:  d0a6a2e00710acaf228d76aefc2ff175f9cb2336 
+-- 2018-01-19 00:08:16.004 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  26192528-8c2e-be13-2db3-8b8dbc79398e 
+-- 2018-01-19 00:08:16.004 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  26192528-8c2e-be13-2db3-8b8dbc79398e 
+-- 2018-01-19 00:08:17.419 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  653739 
+-- 2018-01-19 00:08:17.423 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf 
+-- 2018-01-19 00:08:17.436 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf hash d0a6a2e00710acaf228d76aefc2ff175f9cb2336 
+-- 2018-01-19 00:08:17.582 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf 
+-- 2018-01-19 00:08:29.058 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf hash d0a6a2e00710acaf228d76aefc2ff175f9cb2336 
+-- 2018-01-19 00:08:31.206 RemoteFilesProxy::get: fileUuid:  3acf511e-4416-a4b1-7e96-12d8303934de  sha1:  6de6273db9e865503d978ec9ed6b648d07e0492b 
+-- 2018-01-19 00:08:31.206 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  3acf511e-4416-a4b1-7e96-12d8303934de 
+-- 2018-01-19 00:08:31.206 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  3acf511e-4416-a4b1-7e96-12d8303934de 
+-- 2018-01-19 00:08:32.471 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  318884 
+-- 2018-01-19 00:08:32.474 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf 
+-- 2018-01-19 00:08:32.488 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf hash 6de6273db9e865503d978ec9ed6b648d07e0492b 
+-- 2018-01-19 00:08:32.581 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf 
+-- 2018-01-19 00:08:39.084 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf hash 208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 00:08:41.323 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf hash 7ab2b57050f6c60a371c36015a196ae2564183b8 
+-- 2018-01-19 00:08:43.166 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Cordier et al. - 2007 - A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production(2).pdf hash 93bd491fefb2386a293bdf7154215a04389a930f 
+-- 2018-01-19 00:08:44.984 RemoteFilesProxy::get: fileUuid:  62e79b1e-d0bc-8d79-55de-f36e2f5e1df6  sha1:  2608033862c9680bd9a683c543a8a131bb6db099 
+-- 2018-01-19 00:08:44.986 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  62e79b1e-d0bc-8d79-55de-f36e2f5e1df6 
+-- 2018-01-19 00:08:44.986 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  62e79b1e-d0bc-8d79-55de-f36e2f5e1df6 
+-- 2018-01-19 00:08:45.728 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  279988 
+-- 2018-01-19 00:08:45.731 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf 
+-- 2018-01-19 00:08:45.745 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf hash 2608033862c9680bd9a683c543a8a131bb6db099 
+-- 2018-01-19 00:08:45.853 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf 
+-- 2018-01-19 00:08:47.762 RemoteFilesProxy::get: fileUuid:  541052da-6824-99ab-6a17-9540cc4e1cca  sha1:  26b7f1cd8061b513bed80cdb26fb161d324fbaca 
+-- 2018-01-19 00:08:47.762 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  541052da-6824-99ab-6a17-9540cc4e1cca 
+-- 2018-01-19 00:08:47.762 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  541052da-6824-99ab-6a17-9540cc4e1cca 
+-- 2018-01-19 00:08:48.771 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  204430 
+-- 2018-01-19 00:08:48.775 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 00:08:48.789 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf hash 26b7f1cd8061b513bed80cdb26fb161d324fbaca 
+-- 2018-01-19 00:08:48.988 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 00:08:50.862 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tang, Feng, Chen - 2013 - Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces cerevisiae.pdf hash 33b26b8636cc2532c714cde69dd6d7268605236d 
+-- 2018-01-19 00:08:52.895 RemoteFilesProxy::get: fileUuid:  2dd4656e-3fed-2983-1288-d8e6062e1a72  sha1:  0dbbd891aaf7aec55c1874701410b4c7808f7676 
+-- 2018-01-19 00:08:52.895 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  2dd4656e-3fed-2983-1288-d8e6062e1a72 
+-- 2018-01-19 00:08:52.895 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  2dd4656e-3fed-2983-1288-d8e6062e1a72 
+-- 2018-01-19 00:08:54.133 RemoteFilesProxy::get: fileUuid:  2dd4656e-3fed-2983-1288-d8e6062e1a72  sha1:  0dbbd891aaf7aec55c1874701410b4c7808f7676 
+-- 2018-01-19 00:08:54.135 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  2dd4656e-3fed-2983-1288-d8e6062e1a72 
+-- 2018-01-19 00:08:54.135 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  2dd4656e-3fed-2983-1288-d8e6062e1a72 
+-- 2018-01-19 00:08:54.213 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  142270 
+-- 2018-01-19 00:08:54.216 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 00:08:54.230 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae.pdf hash 0dbbd891aaf7aec55c1874701410b4c7808f7676 
+-- 2018-01-19 00:08:54.332 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 00:08:54.689 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  142270 
+-- 2018-01-19 00:08:54.693 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae(2).pdf 
+-- 2018-01-19 00:08:54.802 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae(2).pdf 
+-- 2018-01-19 00:08:57.063 RemoteFilesProxy::get: fileUuid:  002af742-c223-0fe7-26c1-7ab8a31e1946  sha1:  276a36b94016a4fc960260861f7e9f8f11d2cb31 
+-- 2018-01-19 00:08:57.065 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  002af742-c223-0fe7-26c1-7ab8a31e1946 
+-- 2018-01-19 00:08:57.065 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  002af742-c223-0fe7-26c1-7ab8a31e1946 
+-- 2018-01-19 00:08:58.784 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1569324 
+-- 2018-01-19 00:08:58.788 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf 
+-- 2018-01-19 00:08:58.802 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf hash 276a36b94016a4fc960260861f7e9f8f11d2cb31 
+-- 2018-01-19 00:08:58.898 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf 
+-- 2018-01-19 00:09:06.889 RemoteFilesProxy::get: fileUuid:  35fbc7e8-c504-c677-4f32-be5ddcfe16ee  sha1:  7fd19a56ac355cd765dddba801af764d8e64fa80 
+-- 2018-01-19 00:09:06.889 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  35fbc7e8-c504-c677-4f32-be5ddcfe16ee 
+-- 2018-01-19 00:09:06.889 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  35fbc7e8-c504-c677-4f32-be5ddcfe16ee 
+-- 2018-01-19 00:09:09.852 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  253556 
+-- 2018-01-19 00:09:09.856 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 00:09:09.870 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf hash 7fd19a56ac355cd765dddba801af764d8e64fa80 
+-- 2018-01-19 00:09:09.974 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 00:09:12.398 RemoteFilesProxy::get: fileUuid:  6f73bb0a-e6cd-84bf-636b-603079ee15c2  sha1:  e0c257becc66ee044e0cf0eb4ad6c47a4929cc84 
+-- 2018-01-19 00:09:12.398 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  6f73bb0a-e6cd-84bf-636b-603079ee15c2 
+-- 2018-01-19 00:09:12.398 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  6f73bb0a-e6cd-84bf-636b-603079ee15c2 
+-- 2018-01-19 00:09:13.548 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1859432 
+-- 2018-01-19 00:09:13.553 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf 
+-- 2018-01-19 00:09:13.593 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf hash e0c257becc66ee044e0cf0eb4ad6c47a4929cc84 
+-- 2018-01-19 00:09:13.688 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf 
+-- 2018-01-19 00:09:16.754 RemoteFilesProxy::get: fileUuid:  4c26228e-605e-c24d-0bdc-a3d5b3ce136a  sha1:  1d508a944ab954ecd90ad1a1132b705f5d5a6c19 
+-- 2018-01-19 00:09:16.754 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  4c26228e-605e-c24d-0bdc-a3d5b3ce136a 
+-- 2018-01-19 00:09:16.754 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  4c26228e-605e-c24d-0bdc-a3d5b3ce136a 
+-- 2018-01-19 00:09:17.806 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  354775 
+-- 2018-01-19 00:09:17.810 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf 
+-- 2018-01-19 00:09:17.824 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf hash 1d508a944ab954ecd90ad1a1132b705f5d5a6c19 
+-- 2018-01-19 00:09:17.926 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf 
+-- 2018-01-19 00:10:35.524 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf hash 26b7f1cd8061b513bed80cdb26fb161d324fbaca 
+-- 2018-01-19 00:19:05.786 RemoteFilesProxy::get: fileUuid:  6be6adbc-10bd-26b1-129a-b209275949f6  sha1:  4a704f57ee857b4c9ef32dbe15dc061948e70715 
+-- 2018-01-19 00:19:05.786 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  6be6adbc-10bd-26b1-129a-b209275949f6 
+-- 2018-01-19 00:19:05.786 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  6be6adbc-10bd-26b1-129a-b209275949f6 
+-- 2018-01-19 00:19:07.755 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1017725 
+-- 2018-01-19 00:19:07.759 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf 
+-- 2018-01-19 00:19:07.776 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf hash 4a704f57ee857b4c9ef32dbe15dc061948e70715 
+-- 2018-01-19 00:19:07.918 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf 
+-- 2018-01-19 00:19:11.982 RemoteFilesProxy::get: fileUuid:  640f39d7-3ce2-cc3b-2015-45a850be123e  sha1:  cbd15f7b27a232724a6ea4d6866ff2922989ebf7 
+-- 2018-01-19 00:19:11.997 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  640f39d7-3ce2-cc3b-2015-45a850be123e 
+-- 2018-01-19 00:19:11.997 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  640f39d7-3ce2-cc3b-2015-45a850be123e 
+-- 2018-01-19 00:19:13.370 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1216538 
+-- 2018-01-19 00:19:13.374 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf 
+-- 2018-01-19 00:19:13.389 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf hash cbd15f7b27a232724a6ea4d6866ff2922989ebf7 
+-- 2018-01-19 00:19:13.484 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf 
+-- 2018-01-19 00:19:15.604 RemoteFilesProxy::get: fileUuid:  105d2b48-4770-57df-344d-e77aedae1112  sha1:  efc30d23079ce332a57fa435dceaafde6970a7ae 
+-- 2018-01-19 00:19:15.604 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  105d2b48-4770-57df-344d-e77aedae1112 
+-- 2018-01-19 00:19:15.604 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  105d2b48-4770-57df-344d-e77aedae1112 
+-- 2018-01-19 00:19:16.861 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1464839 
+-- 2018-01-19 00:19:16.865 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf 
+-- 2018-01-19 00:19:16.879 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf hash efc30d23079ce332a57fa435dceaafde6970a7ae 
+-- 2018-01-19 00:19:16.975 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf 
+-- 2018-01-19 00:19:19.138 RemoteFilesProxy::get: fileUuid:  71dd1d1a-6fd2-71ed-4886-894d8a9e0fe6  sha1:  b2ab1eb26ca55fd6ce0933de0d79006450232390 
+-- 2018-01-19 00:19:19.138 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  71dd1d1a-6fd2-71ed-4886-894d8a9e0fe6 
+-- 2018-01-19 00:19:19.138 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  71dd1d1a-6fd2-71ed-4886-894d8a9e0fe6 
+-- 2018-01-19 00:19:20.114 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1036863 
+-- 2018-01-19 00:19:20.118 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf 
+-- 2018-01-19 00:19:20.131 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf hash b2ab1eb26ca55fd6ce0933de0d79006450232390 
+-- 2018-01-19 00:19:20.326 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf 
+-- 2018-01-19 00:19:32.479 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf hash 276a36b94016a4fc960260861f7e9f8f11d2cb31 
+-- 2018-01-19 00:45:27.345 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf hash 2608033862c9680bd9a683c543a8a131bb6db099 
+-- 2018-01-19 00:50:24.450 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf hash 6de6273db9e865503d978ec9ed6b648d07e0492b 
+-- 2018-01-19 01:51:05.695 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-19 02:30:45.035 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-19 02:30:45.036 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-19 02:30:45.036 CrashHandler::notifyStartup: run count 6 crash count 0 
+-- 2018-01-19 02:30:45.040 main: startup took 102 ms 
+-- 2018-01-19 02:30:48.765 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-19 02:30:48.765 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-19 02:30:50.247 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 02:30:50.247 SyncQueue::startSync: starting sync 
+-- 2018-01-19 02:30:51.491 SyncQueue::finished: sync completed in 1243 ms 
+-- 2018-01-19 02:30:51.491 SyncQueue::startSync: starting sync 
+-- 2018-01-19 02:30:52.188 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 02:30:52.188 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:26.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 02:30:52.817 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 02:30:52.818 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:27.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 02:30:52.957 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:27.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 02:30:53.086 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:27.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 02:30:53.234 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 02:30:53.234 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:27.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 02:30:53.358 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 02:30:53.358 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:28.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 02:30:53.734 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:28.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 02:30:53.917 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:28.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 02:30:54.067 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:28.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 02:30:54.198 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:28.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 02:30:54.502 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:29.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 02:30:54.503 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:29.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 02:30:54.936 SyncQueue::finished: sync completed in 3444 ms 
+-- 2018-01-19 02:30:54.951 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 02:30:54.951 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:29.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 02:30:54.951 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T02:30:29.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 17:22:06.052 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-19 20:12:29.367 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-19 20:12:29.367 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-19 20:12:29.367 CrashHandler::notifyStartup: run count 7 crash count 0 
+-- 2018-01-19 20:12:29.367 main: startup took 110 ms 
+-- 2018-01-19 20:12:33.242 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-19 20:12:33.242 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-19 20:12:34.736 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:12:34.736 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:12:35.798 SyncQueue::finished: sync completed in 1057 ms 
+-- 2018-01-19 20:12:35.798 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:12:36.336 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:12:36.336 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:09.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 20:12:36.583 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-19 20:12:36.749 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:12:36.749 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:09.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 20:12:37.027 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:09.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 20:12:37.199 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:10.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 20:12:37.445 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:12:37.445 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:10.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 20:12:37.586 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:12:37.586 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:10.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 20:12:37.818 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:10.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 20:12:38.082 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:10.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 20:12:38.214 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:11.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 20:12:38.350 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:11.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 20:12:39.041 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:11.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 20:12:39.043 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:11.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 20:12:39.457 SyncQueue::finished: sync completed in 3658 ms 
+-- 2018-01-19 20:12:39.476 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:12:39.477 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:12.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 20:12:39.477 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:12:12.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 20:13:58.618 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf hash 208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 20:15:02.152 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf hash 208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 20:17:19.749 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:17:19.749 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:17:20.755 SyncQueue::finished: sync completed in 998 ms 
+-- 2018-01-19 20:17:20.755 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:17:21.140 SyncQueue::finished: sync completed in 385 ms 
+-- 2018-01-19 20:17:21.152 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:17:44.402 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:17:44.402 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:17:44.810 SyncQueue::finished: sync completed in 393 ms 
+-- 2018-01-19 20:17:44.810 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:17:45.208 SyncQueue::finished: sync completed in 398 ms 
+-- 2018-01-19 20:17:45.216 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:18:01.371 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:18:01.372 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:18:01.719 JSDataStore::selectGroup: Web requested client to switch to non-existent group   groupUuid:  df7940c7-b39d-380e-bd58-f6ae5fe90d1a  groupId: ( 12652341 ) 
+-- 2018-01-19 20:18:01.719 JSDataStore::selectGroup: Web requested client to switch to non-existent group   groupUuid:  df7940c7-b39d-380e-bd58-f6ae5fe90d1a  groupId: ( 12652341 ) 
+-- 2018-01-19 20:18:01.751 SyncQueue::finished: sync completed in 378 ms 
+-- 2018-01-19 20:18:01.751 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:18:02.902 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:18:02.902 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:35.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 20:18:03.035 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:18:03.035 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 20:18:03.163 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:18:03.163 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 20:18:03.184 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 20:18:03.311 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 20:18:03.439 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 20:18:03.566 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 20:18:03.696 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:18:03.696 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 20:18:03.821 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:18:03.821 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 20:18:03.946 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:18:03.946 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:36.000Z  of type  5  and groupId =  2 
+-- 2018-01-19 20:18:04.294 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 20:18:04.451 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 20:18:04.587 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  1  and groupId =  2 
+-- 2018-01-19 20:18:04.588 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 20:18:04.719 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 20:18:04.846 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 20:18:04.978 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:37.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 20:18:05.396 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 20:18:05.397 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  6  and groupId =  2 
+-- 2018-01-19 20:18:05.399 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  7  and groupId =  2 
+-- 2018-01-19 20:18:05.400 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 20:18:05.968 SyncQueue::finished: sync completed in 4216 ms 
+-- 2018-01-19 20:18:05.971 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:18:05.972 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 20:18:05.972 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  7  and groupId =  2 
+-- 2018-01-19 20:18:05.972 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:17:38.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 20:18:29.270 ImportJob::run: About to import file:///C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf with hash 6273479359ad5e80557f04a645bf431c60a5ef2a 
+-- 2018-01-19 20:18:29.658 ImportJob::run: Finished importing file:///C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf 
+-- 2018-01-19 20:18:29.769 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf 
+-- 2018-01-19 20:18:30.697 MetadataFetcherImpl::next: Automated metadata lookup for Ownership History succeeded 
+-- 2018-01-19 20:18:39.179 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf hash 6273479359ad5e80557f04a645bf431c60a5ef2a 
+-- 2018-01-19 20:22:31.328 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf hash 7ab2b57050f6c60a371c36015a196ae2564183b8 
+-- 2018-01-19 20:22:47.359 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf hash 6273479359ad5e80557f04a645bf431c60a5ef2a 
+-- 2018-01-19 20:26:18.382 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:26:18.382 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:26:19.150 SyncQueue::finished: sync completed in 761 ms 
+-- 2018-01-19 20:26:19.150 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:26:19.643 SyncQueue::finished: sync completed in 491 ms 
+-- 2018-01-19 20:26:19.658 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:26:30.473 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:26:30.474 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:26:30.963 JSDataStore::selectGroup: Web requested client to switch to non-existent group   groupUuid:  490978a2-8b97-34c2-a753-0216e50434ea  groupId: ( 12652371 ) 
+-- 2018-01-19 20:26:30.963 JSDataStore::selectGroup: Web requested client to switch to non-existent group   groupUuid:  490978a2-8b97-34c2-a753-0216e50434ea  groupId: ( 12652371 ) 
+-- 2018-01-19 20:26:30.980 SyncQueue::finished: sync completed in 506 ms 
+-- 2018-01-19 20:26:30.980 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:26:32.827 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:32.827 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:05.000Z  of type  3  and groupId =  3 
+-- 2018-01-19 20:26:32.830 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:05.000Z  of type  4  and groupId =  3 
+-- 2018-01-19 20:26:32.960 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:32.960 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:05.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 20:26:33.100 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-19 20:26:33.236 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:33.236 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:06.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 20:26:33.367 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:33.368 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:06.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 20:26:33.727 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:06.000Z  of type  4  and groupId =  3 
+-- 2018-01-19 20:26:34.054 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:06.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 20:26:34.445 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:07.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 20:26:34.574 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:07.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 20:26:34.712 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:34.712 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:07.000Z  of type  5  and groupId =  3 
+-- 2018-01-19 20:26:34.838 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:34.838 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:07.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 20:26:34.978 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:34.978 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:07.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 20:26:35.103 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:26:35.103 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:08.000Z  of type  5  and groupId =  2 
+-- 2018-01-19 20:26:35.596 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:08.000Z  of type  1  and groupId =  3 
+-- 2018-01-19 20:26:35.598 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:08.000Z  of type  2  and groupId =  3 
+-- 2018-01-19 20:26:35.775 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:08.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 20:26:36.042 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:08.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 20:26:36.201 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:09.000Z  of type  1  and groupId =  2 
+-- 2018-01-19 20:26:36.455 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:09.000Z  of type  2  and groupId =  3 
+-- 2018-01-19 20:26:36.697 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:09.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 20:26:36.738 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf 
+-- 2018-01-19 20:26:36.837 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:09.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 20:26:36.967 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:09.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 20:26:37.627 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  6  and groupId =  3 
+-- 2018-01-19 20:26:37.629 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  7  and groupId =  3 
+-- 2018-01-19 20:26:37.630 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 20:26:37.631 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  6  and groupId =  2 
+-- 2018-01-19 20:26:37.632 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 20:26:38.308 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  7  and groupId =  3 
+-- 2018-01-19 20:26:38.311 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:10.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 20:26:38.311 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:11.000Z  of type  7  and groupId =  2 
+-- 2018-01-19 20:26:38.311 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:26:11.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 20:26:41.925 SyncQueue::finished: sync completed in 10944 ms 
+-- 2018-01-19 20:26:41.928 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:26:43.928 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/CARFAX Vehicle History Report for this 2013 AUDI A5 QUATTRO PREMIUM PLUS_ WAULFAFR2DA010713.pdf hash 6273479359ad5e80557f04a645bf431c60a5ef2a 
+-- 2018-01-19 20:27:04.407 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:27:08.149 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/Deep Learning for Answer Sentence Selection.pdf hash 67b5d798fb7037e687bac0d0b164913d98e0c778 
+-- 2018-01-19 20:27:13.375 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf hash 208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 20:57:43.582 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:57:43.606 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 20:58:09.213 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:58:09.213 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:58:09.933 SyncQueue::finished: sync completed in 709 ms 
+-- 2018-01-19 20:58:09.933 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:58:10.611 SyncQueue::finished: sync completed in 678 ms 
+-- 2018-01-19 20:58:10.623 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:58:18.326 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:58:18.326 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:58:18.734 SyncQueue::finished: sync completed in 408 ms 
+-- 2018-01-19 20:58:18.734 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:58:19.371 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:58:19.371 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:52.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 20:58:19.502 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:58:19.502 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:52.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 20:58:19.637 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-19 20:58:19.773 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:58:19.773 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:52.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 20:58:19.930 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:52.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 20:58:20.604 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:53.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 20:58:20.729 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:53.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 20:58:20.853 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:58:20.853 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:53.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 20:58:20.985 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:58:20.985 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:53.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 20:58:21.197 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:58:21.197 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:54.000Z  of type  5  and groupId =  2 
+-- 2018-01-19 20:58:22.793 PrepareFileSyncQueueSyncAction::start: Group:   Uploading: 3 Downloading: 0 Removing: 0 Examined: 4 documents 
+-- 2018-01-19 20:58:22.945 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:55.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 20:58:23.108 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:56.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 20:58:23.356 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:56.000Z  of type  1  and groupId =  2 
+-- 2018-01-19 20:58:23.619 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:56.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 20:58:23.768 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:56.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 20:58:24.021 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:57:56.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 20:58:24.025 RemoteFilesProxy::upload: uuid:  fe8d2195-112e-3185-9d2e-eceecfb911aa  sha1:  208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 20:58:24.026 ApiUploadFileTasklet::run: Document_uuid =  fe8d2195-112e-3185-9d2e-eceecfb911aa 
+-- 2018-01-19 20:58:24.026 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:58:24.026 ApiUploadFileTasklet::run: Length =  690082 
+-- 2018-01-19 20:58:24.028 ApiUploadFileTasklet::run: Uploading file Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf with mime type application/pdf 
+-- 2018-01-19 20:58:25.535 ApiUploadFileTasklet::uploadFileResult: File uploaded 3dda708d-4428-d047-6aff-8e77525d87bc 
+-- 2018-01-19 20:58:25.537 RemoteFilesProxy::upload: uuid:  c1a8db58-3051-3823-bfe1-72978cdace04  sha1:  208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 20:58:25.538 ApiUploadFileTasklet::run: Document_uuid =  c1a8db58-3051-3823-bfe1-72978cdace04 
+-- 2018-01-19 20:58:25.538 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:58:25.538 ApiUploadFileTasklet::run: Length =  690082 
+-- 2018-01-19 20:58:25.541 ApiUploadFileTasklet::run: Uploading file Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf with mime type application/pdf 
+-- 2018-01-19 20:58:25.645 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:58:26.820 ApiUploadFileTasklet::uploadFileResult: File uploaded 3dda708d-4428-d047-7f38-3049ef4d8690 
+-- 2018-01-19 20:58:26.822 RemoteFilesProxy::upload: uuid:  65efd976-22f9-3b0e-b645-530672f57039  sha1:  7ab2b57050f6c60a371c36015a196ae2564183b8 
+-- 2018-01-19 20:58:26.839 ApiUploadFileTasklet::run: Document_uuid =  65efd976-22f9-3b0e-b645-530672f57039 
+-- 2018-01-19 20:58:26.839 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 20:58:26.839 ApiUploadFileTasklet::run: Length =  361882 
+-- 2018-01-19 20:58:26.841 ApiUploadFileTasklet::run: Uploading file Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf with mime type application/pdf 
+-- 2018-01-19 20:58:27.030 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:58:27.967 ApiUploadFileTasklet::uploadFileResult: File uploaded 553d874b-32c7-7d63-56c6-eca4b56d88e8 
+-- 2018-01-19 20:58:28.109 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 20:58:29.244 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:58:01.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 20:58:29.246 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:58:01.000Z  of type  6  and groupId =  2 
+-- 2018-01-19 20:58:29.248 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:58:01.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 20:58:30.196 SyncQueue::finished: sync completed in 11461 ms 
+-- 2018-01-19 20:58:30.200 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:58:30.200 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:58:02.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 20:58:30.201 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:58:02.000Z  of type  7  and groupId =  2 
+-- 2018-01-19 20:58:30.201 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:58:02.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 20:59:29.603 RemoteFilesProxy::get: fileUuid:  179f17f0-49d9-4c5f-1266-af678189603a  sha1:  869fd756e3da7670c54e2c6045a6b5c19c822377 
+-- 2018-01-19 20:59:29.603 RemoteFilesProxy::get: fileUuid:  34642d8d-0cef-3f4d-41b8-2abeb3994ea6  sha1:  92e7e2d6ca13273bb6c96f314da19332dcbf8bd3 
+-- 2018-01-19 20:59:29.603 RemoteFilesProxy::get: fileUuid:  11776c9a-0896-25d1-55f0-cc9150894d7a  sha1:  e14b49bc9262118caafeaa19472486aec7008ae1 
+-- 2018-01-19 20:59:29.603 RemoteFilesProxy::get: fileUuid:  64fc0178-b320-5e65-342b-bdfc690956da  sha1:  3b73eec7fa0b314acbaeb2b0cfc7a00e0d08a191 
+-- 2018-01-19 20:59:29.603 RemoteFilesProxy::get: fileUuid:  06ecc8a1-22bd-16ff-70f7-ccf2c47e0d8e  sha1:  6c1f70907a3aef0ccd059f9916ba10d5d2b9d494 
+-- 2018-01-19 20:59:29.603 RemoteFilesProxy::get: fileUuid:  29348e53-3840-f003-63b1-3bf540e92f02  sha1:  ed9d87c1d7264c0a40154270d86610c52ca0bda2 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  55b472fe-0106-dd07-77e9-ddc7ddd92dd6  sha1:  b07cfbbbf346d04638abce3ad076de0c7f125b8a 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  166a2c8a-06cb-dcad-269f-513a1e795f0e  sha1:  3381032d7dd23f85d5365a3891e3088026395bae 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  626d5e5a-4caf-e359-3b0b-f5ae6139479e  sha1:  6df8d119fa78cf93ed9100a79c1b0b96fcc8ca20 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  5ccf6068-fb06-31c5-4f78-9a22a3f9302e  sha1:  6b29ce07ba38a83134aa0e665280b64c88575e52 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  2d086b7e-bbcf-055f-5cbf-2b20278e0eba  sha1:  bb007fb5107ccc501fd03f61cb22a1904265a9cb 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  5bde1352-0a00-8d7b-205b-216d17b92b7e  sha1:  c3fa938715f6cffa0e15fc8f16310c9189774e8b 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  6762df9b-11fd-b645-0bba-7a572f295932  sha1:  337a49219a0dbe360531652b6ac4e7122168d075 
+-- 2018-01-19 20:59:29.619 RemoteFilesProxy::get: fileUuid:  2a88a093-1d84-a7cf-48cc-651251992926  sha1:  037ae37e342483c0304942a0499596258157bdbe 
+-- 2018-01-19 20:59:29.634 RemoteFilesProxy::get: fileUuid:  16c630cd-6452-bd37-0530-6ec5616e0c62  sha1:  2d6dab3e45eab133a2b36298b2a08e0e44bdcc56 
+-- 2018-01-19 20:59:29.636 RemoteFilesProxy::get: fileUuid:  58ccf466-0db7-0f3f-2707-567d6a193286  sha1:  bdaa7cef4b3aa4d1a16e1de1060ba1ae9b3e90ad 
+-- 2018-01-19 20:59:29.638 RemoteFilesProxy::get: fileUuid:  5bac4127-2b7a-6b7f-5c9d-01a1a2e95482  sha1:  932bb9342bb0cba1c18243e9190ba35fec1b61c3 
+-- 2018-01-19 20:59:29.640 RemoteFilesProxy::get: fileUuid:  1492f0d8-5bf4-ea55-0c22-7f9a7ac92caa  sha1:  d177d4b8cab483ec38b6b18b1660181886da1427 
+-- 2018-01-19 20:59:29.676 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  179f17f0-49d9-4c5f-1266-af678189603a 
+-- 2018-01-19 20:59:29.676 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  179f17f0-49d9-4c5f-1266-af678189603a 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  34642d8d-0cef-3f4d-41b8-2abeb3994ea6 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  34642d8d-0cef-3f4d-41b8-2abeb3994ea6 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  11776c9a-0896-25d1-55f0-cc9150894d7a 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  11776c9a-0896-25d1-55f0-cc9150894d7a 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  64fc0178-b320-5e65-342b-bdfc690956da 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  64fc0178-b320-5e65-342b-bdfc690956da 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  06ecc8a1-22bd-16ff-70f7-ccf2c47e0d8e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  06ecc8a1-22bd-16ff-70f7-ccf2c47e0d8e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  29348e53-3840-f003-63b1-3bf540e92f02 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  29348e53-3840-f003-63b1-3bf540e92f02 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  55b472fe-0106-dd07-77e9-ddc7ddd92dd6 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  55b472fe-0106-dd07-77e9-ddc7ddd92dd6 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  166a2c8a-06cb-dcad-269f-513a1e795f0e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  166a2c8a-06cb-dcad-269f-513a1e795f0e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  626d5e5a-4caf-e359-3b0b-f5ae6139479e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  626d5e5a-4caf-e359-3b0b-f5ae6139479e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  5ccf6068-fb06-31c5-4f78-9a22a3f9302e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  5ccf6068-fb06-31c5-4f78-9a22a3f9302e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  2d086b7e-bbcf-055f-5cbf-2b20278e0eba 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  2d086b7e-bbcf-055f-5cbf-2b20278e0eba 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  5bde1352-0a00-8d7b-205b-216d17b92b7e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  5bde1352-0a00-8d7b-205b-216d17b92b7e 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  6762df9b-11fd-b645-0bba-7a572f295932 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  6762df9b-11fd-b645-0bba-7a572f295932 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  2a88a093-1d84-a7cf-48cc-651251992926 
+-- 2018-01-19 20:59:29.677 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  2a88a093-1d84-a7cf-48cc-651251992926 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  16c630cd-6452-bd37-0530-6ec5616e0c62 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  16c630cd-6452-bd37-0530-6ec5616e0c62 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  58ccf466-0db7-0f3f-2707-567d6a193286 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  58ccf466-0db7-0f3f-2707-567d6a193286 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  5bac4127-2b7a-6b7f-5c9d-01a1a2e95482 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  5bac4127-2b7a-6b7f-5c9d-01a1a2e95482 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileFromCatalogTasklet::run: Downloading file using fileUuid:  1492f0d8-5bf4-ea55-0c22-7f9a7ac92caa 
+-- 2018-01-19 20:59:29.678 ApiDownloadFileTasklet::run: Downloading file with fileUuid:  1492f0d8-5bf4-ea55-0c22-7f9a7ac92caa 
+-- 2018-01-19 20:59:29.752 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf 
+-- 2018-01-19 20:59:29.783 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf 
+-- 2018-01-19 20:59:29.799 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf 
+-- 2018-01-19 20:59:30.068 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 20:59:30.115 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae(2).pdf 
+-- 2018-01-19 20:59:30.131 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 20:59:30.166 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 20:59:30.166 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf 
+-- 2018-01-19 20:59:30.197 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Cordier et al. - 2007 - A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production(2).pdf 
+-- 2018-01-19 20:59:30.508 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf 
+-- 2018-01-19 20:59:30.559 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production (2).pdf 
+-- 2018-01-19 20:59:30.581 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf 
+-- 2018-01-19 20:59:30.590 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  183458 
+-- 2018-01-19 20:59:30.594 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf 
+-- 2018-01-19 20:59:30.605 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tang, Feng, Chen - 2013 - Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 20:59:30.626 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf 
+-- 2018-01-19 20:59:30.637 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  136134 
+-- 2018-01-19 20:59:30.642 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida et al. - 2006 - Enhanced hydrogen production from glucose using ldh- and frd-inactivated Escherichia coli strains.pdf 
+-- 2018-01-19 20:59:30.958 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf 
+-- 2018-01-19 20:59:31.014 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 20:59:31.022 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  207809 
+-- 2018-01-19 20:59:31.026 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Martin et al. - 2003 - Engineering a mevalonate pathway in Escherichia coli for production of terpenoids.pdf 
+-- 2018-01-19 20:59:31.033 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf 
+-- 2018-01-19 20:59:31.048 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hanai, Atsumi, Liao - 2007 - Engineered synthetic pathway for isopropanol production in Escherichia coli.pdf 
+-- 2018-01-19 20:59:31.077 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf 
+-- 2018-01-19 20:59:31.088 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf 
+-- 2018-01-19 20:59:31.131 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  640988 
+-- 2018-01-19 20:59:31.136 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf 
+-- 2018-01-19 20:59:31.344 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  1162540 
+-- 2018-01-19 20:59:31.349 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Layton, Trinh - 2014 - Engineering modular ester fermentative pathways in Escherichia coli.pdf 
+-- 2018-01-19 20:59:31.441 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf 
+-- 2018-01-19 20:59:31.502 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida et al. - 2006 - Enhanced hydrogen production from glucose using ldh- and frd-inactivated Escherichia coli strains.pdf 
+-- 2018-01-19 20:59:31.557 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf 
+-- 2018-01-19 20:59:31.614 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Layton, Trinh - 2014 - Engineering modular ester fermentative pathways in Escherichia coli.pdf 
+-- 2018-01-19 20:59:32.253 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf 
+-- 2018-01-19 20:59:32.378 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  955468 
+-- 2018-01-19 20:59:32.382 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Solomon, Sanders, Prather - 2012 - A dynamic metabolite valve for the control of central carbon metabolism.pdf 
+-- 2018-01-19 20:59:32.411 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Martin et al. - 2003 - Engineering a mevalonate pathway in Escherichia coli for production of terpenoids.pdf 
+-- 2018-01-19 20:59:32.595 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Solomon, Sanders, Prather - 2012 - A dynamic metabolite valve for the control of central carbon metabolism.pdf 
+-- 2018-01-19 20:59:32.707 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  336145 
+-- 2018-01-19 20:59:32.711 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Raab et al. - 2010 - Metabolic engineering of Saccharomyces cerevisiae for the biotechnological production of succinic acid.pdf 
+-- 2018-01-19 20:59:32.792 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  462404 
+-- 2018-01-19 20:59:32.796 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Alper et al. - 2005 - Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli.pdf 
+-- 2018-01-19 20:59:32.883 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  771617 
+-- 2018-01-19 20:59:32.888 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tippmann et al. - 2016 - Production of farnesene and santalene by Saccharomyces cerevisiae using fed-batch cultivations with RQ-controll.pdf 
+-- 2018-01-19 20:59:32.937 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  204466 
+-- 2018-01-19 20:59:32.941 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida, Nishimura, Kawaguchi - 2005 - Enhanced Hydrogen Production from Formic Acid by Formate Hydrogen Lyase-Overexpressing Escherichi.pdf 
+-- 2018-01-19 20:59:33.144 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida, Nishimura, Kawaguchi - 2005 - Enhanced Hydrogen Production from Formic Acid by Formate Hydrogen Lyase-Overexpressing Escherichi.pdf 
+-- 2018-01-19 20:59:33.170 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  805107 
+-- 2018-01-19 20:59:33.174 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Trinh, Unrean, Srienc - 2008 - Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses.pdf 
+-- 2018-01-19 20:59:33.203 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tippmann et al. - 2016 - Production of farnesene and santalene by Saccharomyces cerevisiae using fed-batch cultivations with RQ-controll.pdf 
+-- 2018-01-19 20:59:33.280 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  2478033 
+-- 2018-01-19 20:59:33.285 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lee et al. - 2007 - Systems metabolic engineering of Escherichia coli for L-threonine production.pdf 
+-- 2018-01-19 20:59:33.303 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Raab et al. - 2010 - Metabolic engineering of Saccharomyces cerevisiae for the biotechnological production of succinic acid.pdf 
+-- 2018-01-19 20:59:33.397 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Alper et al. - 2005 - Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli.pdf 
+-- 2018-01-19 20:59:33.523 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  921306 
+-- 2018-01-19 20:59:33.527 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf 
+-- 2018-01-19 20:59:33.801 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  437226 
+-- 2018-01-19 20:59:33.806 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiue, Brockman, Prather - 2015 - Improving product yields on D-glucose in Escherichia coli via knockout of pgi and zwf and feeding of s.pdf 
+-- 2018-01-19 20:59:33.950 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Trinh, Unrean, Srienc - 2008 - Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses.pdf 
+-- 2018-01-19 20:59:33.984 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  613137 
+-- 2018-01-19 20:59:33.988 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/May et al. - 2013 - A modified pathway for the production of acetone in Escherichia coli.pdf 
+-- 2018-01-19 20:59:33.995 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  841896 
+-- 2018-01-19 20:59:34.000 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Seol et al. - 2014 - Metabolic engineering of Escherichia coli strains for co-production of hydrogen and ethanol from glucose.pdf 
+-- 2018-01-19 20:59:34.109 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lee et al. - 2007 - Systems metabolic engineering of Escherichia coli for L-threonine production.pdf 
+-- 2018-01-19 20:59:34.198 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiue, Brockman, Prather - 2015 - Improving product yields on D-glucose in Escherichia coli via knockout of pgi and zwf and feeding of s.pdf 
+-- 2018-01-19 20:59:34.267 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf 
+-- 2018-01-19 20:59:34.296 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  607434 
+-- 2018-01-19 20:59:34.300 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu, San - 2014 - Engineering Escherichia coli for odd straight medium chain free fatty acid production.pdf 
+-- 2018-01-19 20:59:34.351 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/May et al. - 2013 - A modified pathway for the production of acetone in Escherichia coli.pdf 
+-- 2018-01-19 20:59:34.425 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Seol et al. - 2014 - Metabolic engineering of Escherichia coli strains for co-production of hydrogen and ethanol from glucose.pdf 
+-- 2018-01-19 20:59:34.517 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu, San - 2014 - Engineering Escherichia coli for odd straight medium chain free fatty acid production.pdf 
+-- 2018-01-19 20:59:35.080 ApiDownloadFileTasklet::downloadFileResult: Success: file size:  999337 
+-- 2018-01-19 20:59:35.084 ApiDownloadFileTasklet::downloadFileResult: Successfully Downloaded in  C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Na et al. - 2013 - Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs.pdf 
+-- 2018-01-19 20:59:35.197 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Na et al. - 2013 - Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs.pdf 
+-- 2018-01-19 20:59:49.181 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 20:59:49.181 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:59:49.669 SyncQueue::finished: sync completed in 478 ms 
+-- 2018-01-19 20:59:49.669 SyncQueue::startSync: starting sync 
+-- 2018-01-19 20:59:51.001 RemoteDataStore::processNewOrModifiedDocuments: received 4 updated documents from server 
+-- 2018-01-19 20:59:51.267 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:59:51.267 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:23.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 20:59:51.397 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:59:51.397 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:24.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 20:59:51.534 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:59:51.534 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:24.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 20:59:51.656 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:24.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 20:59:51.923 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:24.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 20:59:52.065 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:25.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 20:59:52.185 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:59:52.185 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:25.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 20:59:52.330 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:59:52.331 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:25.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 20:59:52.452 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 20:59:52.452 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:25.000Z  of type  5  and groupId =  2 
+-- 2018-01-19 21:00:08.629 PrepareFileSyncQueueSyncAction::start: Group:   Uploading: 39 Downloading: 0 Removing: 0 Examined: 43 documents 
+-- 2018-01-19 21:00:08.814 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  3dda708d-4428-d047-7f38-3049ef4d8690  with existing attachment  208d84f4cc826b28c93516ca83c294e85f79beb7  for document  c1a8db58-3051-3823-bfe1-72978cdace04 
+-- 2018-01-19 21:00:08.814 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  3dda708d-4428-d047-6aff-8e77525d87bc  with existing attachment  208d84f4cc826b28c93516ca83c294e85f79beb7  for document  fe8d2195-112e-3185-9d2e-eceecfb911aa 
+-- 2018-01-19 21:00:08.814 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  553d874b-32c7-7d63-56c6-eca4b56d88e8  with existing attachment  7ab2b57050f6c60a371c36015a196ae2564183b8  for document  65efd976-22f9-3b0e-b645-530672f57039 
+-- 2018-01-19 21:00:09.047 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:41.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 21:00:09.173 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:42.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 21:00:09.301 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:42.000Z  of type  1  and groupId =  2 
+-- 2018-01-19 21:00:09.427 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:42.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 21:00:09.553 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:42.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 21:00:09.681 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T20:59:42.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 21:00:09.684 RemoteFilesProxy::upload: uuid:  265bbe4c-75f1-30fb-a57f-c425ee761cc2  sha1:  b2ab1eb26ca55fd6ce0933de0d79006450232390 
+-- 2018-01-19 21:00:09.685 ApiUploadFileTasklet::run: Document_uuid =  265bbe4c-75f1-30fb-a57f-c425ee761cc2 
+-- 2018-01-19 21:00:09.685 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf 
+-- 2018-01-19 21:00:09.685 ApiUploadFileTasklet::run: Length =  1036863 
+-- 2018-01-19 21:00:09.689 ApiUploadFileTasklet::run: Uploading file Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:11.534 ApiUploadFileTasklet::uploadFileResult: File uploaded 71dd1d1a-6fd2-71ed-63eb-5423b45dad3c 
+-- 2018-01-19 21:00:11.537 RemoteFilesProxy::upload: uuid:  12967f3d-410c-3263-9ff5-0fd8908034ad  sha1:  bdaa7cef4b3aa4d1a16e1de1060ba1ae9b3e90ad 
+-- 2018-01-19 21:00:11.568 ApiUploadFileTasklet::run: Document_uuid =  12967f3d-410c-3263-9ff5-0fd8908034ad 
+-- 2018-01-19 21:00:11.568 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/May et al. - 2013 - A modified pathway for the production of acetone in Escherichia coli.pdf 
+-- 2018-01-19 21:00:11.568 ApiUploadFileTasklet::run: Length =  613137 
+-- 2018-01-19 21:00:11.571 ApiUploadFileTasklet::run: Uploading file May et al. - 2013 - A modified pathway for the production of acetone in Escherichia coli.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:11.644 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf 
+-- 2018-01-19 21:00:12.655 ApiUploadFileTasklet::uploadFileResult: File uploaded 58ccf466-0db7-0f3f-4fb2-b251176dae68 
+-- 2018-01-19 21:00:12.660 RemoteFilesProxy::upload: uuid:  0a4b69b6-58e4-3dca-bf8d-90950ca3e88d  sha1:  7fd19a56ac355cd765dddba801af764d8e64fa80 
+-- 2018-01-19 21:00:12.691 ApiUploadFileTasklet::run: Document_uuid =  0a4b69b6-58e4-3dca-bf8d-90950ca3e88d 
+-- 2018-01-19 21:00:12.691 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 21:00:12.691 ApiUploadFileTasklet::run: Length =  253556 
+-- 2018-01-19 21:00:12.692 ApiUploadFileTasklet::run: Uploading file Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:12.768 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/May et al. - 2013 - A modified pathway for the production of acetone in Escherichia coli.pdf 
+-- 2018-01-19 21:00:13.681 ApiUploadFileTasklet::uploadFileResult: File uploaded 35fbc7e8-c504-c677-0c5c-97c8ee3daae4 
+-- 2018-01-19 21:00:13.685 RemoteFilesProxy::upload: uuid:  d29bee10-617c-37de-a913-0a427baecd3b  sha1:  c3fa938715f6cffa0e15fc8f16310c9189774e8b 
+-- 2018-01-19 21:00:13.718 ApiUploadFileTasklet::run: Document_uuid =  d29bee10-617c-37de-a913-0a427baecd3b 
+-- 2018-01-19 21:00:13.718 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Seol et al. - 2014 - Metabolic engineering of Escherichia coli strains for co-production of hydrogen and ethanol from glucose.pdf 
+-- 2018-01-19 21:00:13.718 ApiUploadFileTasklet::run: Length =  841896 
+-- 2018-01-19 21:00:13.722 ApiUploadFileTasklet::run: Uploading file Seol et al. - 2014 - Metabolic engineering of Escherichia coli strains for co-production of hydrogen and ethanol from glucose.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:13.797 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pirkov et al. - 2008 - Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 21:00:14.808 ApiUploadFileTasklet::uploadFileResult: File uploaded 5bde1352-0a00-8d7b-7823-f5f6514dac10 
+-- 2018-01-19 21:00:14.811 RemoteFilesProxy::upload: uuid:  7ad790e2-0b3b-311c-b129-abfb51a6341b  sha1:  276a36b94016a4fc960260861f7e9f8f11d2cb31 
+-- 2018-01-19 21:00:14.842 ApiUploadFileTasklet::run: Document_uuid =  7ad790e2-0b3b-311c-b129-abfb51a6341b 
+-- 2018-01-19 21:00:14.842 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf 
+-- 2018-01-19 21:00:14.842 ApiUploadFileTasklet::run: Length =  1569324 
+-- 2018-01-19 21:00:14.848 ApiUploadFileTasklet::run: Uploading file Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:14.923 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Seol et al. - 2014 - Metabolic engineering of Escherichia coli strains for co-production of hydrogen and ethanol from glucose.pdf 
+-- 2018-01-19 21:00:17.041 ApiUploadFileTasklet::uploadFileResult: File uploaded 002af742-c223-0fe7-34cd-db6e281da88c 
+-- 2018-01-19 21:00:17.135 RemoteFilesProxy::upload: uuid:  071c747b-c316-36b0-9371-d3dd305d0d32  sha1:  bb007fb5107ccc501fd03f61cb22a1904265a9cb 
+-- 2018-01-19 21:00:17.167 ApiUploadFileTasklet::run: Document_uuid =  071c747b-c316-36b0-9371-d3dd305d0d32 
+-- 2018-01-19 21:00:17.167 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Raab et al. - 2010 - Metabolic engineering of Saccharomyces cerevisiae for the biotechnological production of succinic acid.pdf 
+-- 2018-01-19 21:00:17.167 ApiUploadFileTasklet::run: Length =  336145 
+-- 2018-01-19 21:00:17.168 ApiUploadFileTasklet::run: Uploading file Raab et al. - 2010 - Metabolic engineering of Saccharomyces cerevisiae for the biotechnological production of succinic acid.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:17.345 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kocharin, Siewers, Nielsen - 2013 - Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoke.pdf 
+-- 2018-01-19 21:00:18.131 ApiUploadFileTasklet::uploadFileResult: File uploaded 2d086b7e-bbcf-055f-2095-399b8b2da9b8 
+-- 2018-01-19 21:00:18.135 RemoteFilesProxy::upload: uuid:  32450d2a-d6a4-33b7-9c60-52a977f63c82  sha1:  6de6273db9e865503d978ec9ed6b648d07e0492b 
+-- 2018-01-19 21:00:18.191 ApiUploadFileTasklet::run: Document_uuid =  32450d2a-d6a4-33b7-9c60-52a977f63c82 
+-- 2018-01-19 21:00:18.191 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf 
+-- 2018-01-19 21:00:18.191 ApiUploadFileTasklet::run: Length =  318884 
+-- 2018-01-19 21:00:18.192 ApiUploadFileTasklet::run: Uploading file Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:18.349 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Raab et al. - 2010 - Metabolic engineering of Saccharomyces cerevisiae for the biotechnological production of succinic acid.pdf 
+-- 2018-01-19 21:00:19.162 ApiUploadFileTasklet::uploadFileResult: File uploaded 3acf511e-4416-a4b1-5d3f-1f1361fda634 
+-- 2018-01-19 21:00:19.165 RemoteFilesProxy::upload: uuid:  e4cb51ae-5535-372b-85c0-fc1461dd2de6  sha1:  3b73eec7fa0b314acbaeb2b0cfc7a00e0d08a191 
+-- 2018-01-19 21:00:19.196 ApiUploadFileTasklet::run: Document_uuid =  e4cb51ae-5535-372b-85c0-fc1461dd2de6 
+-- 2018-01-19 21:00:19.196 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Layton, Trinh - 2014 - Engineering modular ester fermentative pathways in Escherichia coli.pdf 
+-- 2018-01-19 21:00:19.196 ApiUploadFileTasklet::run: Length =  1162540 
+-- 2018-01-19 21:00:19.201 ApiUploadFileTasklet::run: Uploading file Layton, Trinh - 2014 - Engineering modular ester fermentative pathways in Escherichia coli.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:19.378 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yomano et al. - 2008 - Re-engineering Escherichia coli for ethanol production.pdf 
+-- 2018-01-19 21:00:20.217 ApiUploadFileTasklet::uploadFileResult: File uploaded 64fc0178-b320-5e65-4906-7d40c50da760 
+-- 2018-01-19 21:00:20.226 RemoteFilesProxy::upload: uuid:  fae29ad2-d327-31d1-b814-c3563b872f8c  sha1:  ed9d87c1d7264c0a40154270d86610c52ca0bda2 
+-- 2018-01-19 21:00:20.256 ApiUploadFileTasklet::run: Document_uuid =  fae29ad2-d327-31d1-b814-c3563b872f8c 
+-- 2018-01-19 21:00:20.256 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Solomon, Sanders, Prather - 2012 - A dynamic metabolite valve for the control of central carbon metabolism.pdf 
+-- 2018-01-19 21:00:20.256 ApiUploadFileTasklet::run: Length =  955468 
+-- 2018-01-19 21:00:20.260 ApiUploadFileTasklet::run: Uploading file Solomon, Sanders, Prather - 2012 - A dynamic metabolite valve for the control of central carbon metabolism.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:20.331 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Layton, Trinh - 2014 - Engineering modular ester fermentative pathways in Escherichia coli.pdf 
+-- 2018-01-19 21:00:21.412 ApiUploadFileTasklet::uploadFileResult: File uploaded 29348e53-3840-f003-05b0-62b89bdda3dc 
+-- 2018-01-19 21:00:21.415 RemoteFilesProxy::upload: uuid:  b2240266-93ea-3061-a00f-15f19405f28f  sha1:  2d6dab3e45eab133a2b36298b2a08e0e44bdcc56 
+-- 2018-01-19 21:00:21.445 ApiUploadFileTasklet::run: Document_uuid =  b2240266-93ea-3061-a00f-15f19405f28f 
+-- 2018-01-19 21:00:21.445 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf 
+-- 2018-01-19 21:00:21.445 ApiUploadFileTasklet::run: Length =  921306 
+-- 2018-01-19 21:00:21.449 ApiUploadFileTasklet::run: Uploading file Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf with mime type application/pdf 
+-- 2018-01-19 21:00:21.518 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Solomon, Sanders, Prather - 2012 - A dynamic metabolite valve for the control of central carbon metabolism.pdf 
+-- 2018-01-19 21:00:21.788 OpenApiRequest::handleApiError: /files/ Status 500 Trace ID aE_u0anE40k 
+-- 2018-01-19 21:00:21.788 NetworkReply::logResponse: 500 POST https://api.mendeley.com/files/ 
+-- 2018-01-19 21:00:21.788 NetworkReply::logResponse: 408 Error: Error downloading https://api.mendeley.com/files/ - server replied: Server Error 
+-- 2018-01-19 21:00:21.788 NetworkReply::logResponse: 408 Headers: Content-Type: application/vnd.mendeley-file.1+json, Date: Fri, 19 Jan 2018 20:59:54 GMT, X-Mendeley-Trace-Id: aE_u0anE40k, Content-Length: 99, Connection: keep-alive 
+-- 2018-01-19 21:00:21.788 NetworkReply::logResponse: 408 Body: {"message":"There was an error processing your request. It has been logged (ID 65a6a60f71162103)."} 
+-- 2018-01-19 21:00:21.788 ApiUploadFileTasklet::uploadFileFailed: Upload failed:  There was an error processing your request. It has been logged (ID 65a6a60f71162103). 
+-- 2018-01-19 21:00:21.788 RemoteDataStore::processError: sync error Sorry, we had a problem syncing your library: There was an error processing your request. It has been logged (ID 65a6a60f71162103). - upload progress: 0 of 0. Error ID: aE_u0anE40k 
+-- 2018-01-19 21:00:21.789 SyncQueue::abortSync: in progress UploadFiles 
+-- 2018-01-19 21:00:21.789 SyncQueue::finished: sync failed: There was an error processing your request. It has been logged (ID 65a6a60f71162103). - upload progress: 0 of 0 
+-- 2018-01-19 21:00:22.197 OpenApiRequest::handleApiError: /recently_read/ Status 500 Trace ID eyYNkASVnh4 
+-- 2018-01-19 21:00:22.197 NetworkReply::logResponse: 500 GET https://api.mendeley.com/recently_read/ 
+-- 2018-01-19 21:00:22.197 NetworkReply::logResponse: 410 Error: Error downloading https://api.mendeley.com/recently_read/ - server replied: Server Error 
+-- 2018-01-19 21:00:22.197 NetworkReply::logResponse: 410 Headers: Content-Type: application/vnd.mendeley-recently-read.1+json, Date: Fri, 19 Jan 2018 20:59:54 GMT, X-Mendeley-Trace-Id: eyYNkASVnh4, Content-Length: 99, Connection: keep-alive 
+-- 2018-01-19 21:00:22.197 NetworkReply::logResponse: 410 Body: {"message":"There was an error processing your request. It has been logged (ID e9b12c80347209eb)."} 
+-- 2018-01-19 21:00:46.768 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 21:00:46.768 SyncQueue::startSync: starting sync 
+-- 2018-01-19 21:00:47.159 SyncQueue::finished: sync completed in 388 ms 
+-- 2018-01-19 21:00:47.159 SyncQueue::startSync: starting sync 
+-- 2018-01-19 21:00:47.414 RemoteDataStore::processModifiedFolder: folder 768ef129-8393-4a20-8128-fd1785d6e874 was modified on server 
+-- 2018-01-19 21:00:48.087 RemoteDataStore::processNewOrModifiedDocuments: received 43 updated documents from server 
+-- 2018-01-19 21:00:48.223 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:00:48.224 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:20.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 21:00:48.462 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:00:48.462 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:21.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 21:00:48.604 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:00:48.604 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:21.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 21:00:48.733 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:21.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 21:00:48.867 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:21.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 21:00:48.988 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:21.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 21:00:49.130 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:00:49.130 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:22.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 21:00:49.252 OpenApiRequest::handleApiError: /trash/?group_id=...&view=...&limit=...&modified_since=... Status 500 Trace ID  
+-- 2018-01-19 21:00:49.252 NetworkReply::logResponse: 500 GET https://api.mendeley.com/trash/?group_id=a6921378-5d32-3644-961a-c3b6bd1d65f7&view=all&limit=100&modified_since=2018-01-19T20:59:25.000Z 
+-- 2018-01-19 21:00:49.252 NetworkReply::logResponse: 431 Error: Error downloading https://api.mendeley.com/trash/?group_id=a6921378-5d32-3644-961a-c3b6bd1d65f7&view=all&limit=100&modified_since=2018-01-19T20:59:25.000Z - server replied: Server Error 
+-- 2018-01-19 21:00:49.252 NetworkReply::logResponse: 431 Headers: Cache-Control: must-revalidate,no-cache,no-store, Content-Type: text/html; charset=ISO-8859-1, Date: Fri, 19 Jan 2018 21:00:22 GMT, Content-Length: 301, Connection: keep-alive 
+-- 2018-01-19 21:00:49.252 NetworkReply::logResponse: 431 Body: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<title>Error 500 Server Error</title>
+</head>
+<body><h2>HTTP ERROR 500</h2>
+<p>Problem accessing /trash/. Reason:
+<pre>    Server Error</pre></p><hr><i><small>Powered by Jetty://</small></i><hr/>
+
+</body>
+</html>
+ 
+-- 2018-01-19 21:00:49.252 RemoteDataStore::processError: sync error Sorry, we had a problem syncing your library: <html> <head> <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/> <title>Error 500 Server Error</title> </head> <body><h2>HTTP ERROR 500</h2> <p>Problem accessing /trash/. Reason: <pre> Server Error</pre></p><hr><i><small>Powered by Jetty://</small></i><hr/> </body> </html> 
+-- 2018-01-19 21:00:49.288 SyncQueue::abortSync: in progress GetTrashedDocuments 
+-- 2018-01-19 21:00:49.288 SyncQueue::finished: sync failed: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<title>Error 500 Server Error</title>
+</head>
+<body><h2>HTTP ERROR 500</h2>
+<p>Problem accessing /trash/. Reason:
+<pre>    Server Error</pre></p><hr><i><small>Powered by Jetty://</small></i><hr/>
+
+</body>
+</html>
+ 
+-- 2018-01-19 21:01:10.061 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 21:01:10.061 SyncQueue::startSync: starting sync 
+-- 2018-01-19 21:01:10.546 SyncQueue::finished: sync completed in 483 ms 
+-- 2018-01-19 21:01:10.546 SyncQueue::startSync: starting sync 
+-- 2018-01-19 21:01:10.919 RemoteDataStore::processModifiedFolder: folder 768ef129-8393-4a20-8128-fd1785d6e874 was modified on server 
+-- 2018-01-19 21:01:11.317 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:01:11.317 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:44.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 21:01:11.457 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:01:11.457 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:44.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 21:01:11.585 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:01:11.585 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:44.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 21:01:11.713 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:44.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 21:01:11.840 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:44.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 21:01:11.974 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:44.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 21:01:12.096 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:01:12.096 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:45.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 21:01:12.240 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:01:12.240 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:45.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 21:01:12.364 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:01:12.364 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:45.000Z  of type  5  and groupId =  2 
+-- 2018-01-19 21:01:12.651 PrepareFileSyncQueueSyncAction::start: Group:   Uploading: 30 Downloading: 0 Removing: 0 Examined: 43 documents 
+-- 2018-01-19 21:01:13.025 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  29348e53-3840-f003-05b0-62b89bdda3dc  with existing attachment  ed9d87c1d7264c0a40154270d86610c52ca0bda2  for document  fae29ad2-d327-31d1-b814-c3563b872f8c 
+-- 2018-01-19 21:01:13.025 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  3acf511e-4416-a4b1-5d3f-1f1361fda634  with existing attachment  6de6273db9e865503d978ec9ed6b648d07e0492b  for document  32450d2a-d6a4-33b7-9c60-52a977f63c82 
+-- 2018-01-19 21:01:13.025 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  64fc0178-b320-5e65-4906-7d40c50da760  with existing attachment  3b73eec7fa0b314acbaeb2b0cfc7a00e0d08a191  for document  e4cb51ae-5535-372b-85c0-fc1461dd2de6 
+-- 2018-01-19 21:01:13.025 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  002af742-c223-0fe7-34cd-db6e281da88c  with existing attachment  276a36b94016a4fc960260861f7e9f8f11d2cb31  for document  7ad790e2-0b3b-311c-b129-abfb51a6341b 
+-- 2018-01-19 21:01:13.025 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  2d086b7e-bbcf-055f-2095-399b8b2da9b8  with existing attachment  bb007fb5107ccc501fd03f61cb22a1904265a9cb  for document  071c747b-c316-36b0-9371-d3dd305d0d32 
+-- 2018-01-19 21:01:13.026 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  35fbc7e8-c504-c677-0c5c-97c8ee3daae4  with existing attachment  7fd19a56ac355cd765dddba801af764d8e64fa80  for document  0a4b69b6-58e4-3dca-bf8d-90950ca3e88d 
+-- 2018-01-19 21:01:13.026 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  5bde1352-0a00-8d7b-7823-f5f6514dac10  with existing attachment  c3fa938715f6cffa0e15fc8f16310c9189774e8b  for document  d29bee10-617c-37de-a913-0a427baecd3b 
+-- 2018-01-19 21:01:13.026 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  71dd1d1a-6fd2-71ed-63eb-5423b45dad3c  with existing attachment  b2ab1eb26ca55fd6ce0933de0d79006450232390  for document  265bbe4c-75f1-30fb-a57f-c425ee761cc2 
+-- 2018-01-19 21:01:13.026 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  58ccf466-0db7-0f3f-4fb2-b251176dae68  with existing attachment  bdaa7cef4b3aa4d1a16e1de1060ba1ae9b3e90ad  for document  12967f3d-410c-3263-9ff5-0fd8908034ad 
+-- 2018-01-19 21:01:13.289 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:45.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 21:01:13.418 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:46.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 21:01:13.552 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:46.000Z  of type  1  and groupId =  2 
+-- 2018-01-19 21:01:13.679 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:46.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 21:01:13.819 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:46.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 21:01:13.945 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:00:46.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 21:01:13.950 RemoteFilesProxy::upload: uuid:  b2240266-93ea-3061-a00f-15f19405f28f  sha1:  2d6dab3e45eab133a2b36298b2a08e0e44bdcc56 
+-- 2018-01-19 21:01:13.951 ApiUploadFileTasklet::run: Document_uuid =  b2240266-93ea-3061-a00f-15f19405f28f 
+-- 2018-01-19 21:01:13.951 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf 
+-- 2018-01-19 21:01:13.951 ApiUploadFileTasklet::run: Length =  921306 
+-- 2018-01-19 21:01:13.955 ApiUploadFileTasklet::run: Uploading file Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:15.365 ApiUploadFileTasklet::uploadFileResult: File uploaded 16c630cd-6452-bd37-7177-c0e5feeda508 
+-- 2018-01-19 21:01:15.368 RemoteFilesProxy::upload: uuid:  4c3bc0c9-6592-3b96-8dd9-69c7996dcae3  sha1:  cbd15f7b27a232724a6ea4d6866ff2922989ebf7 
+-- 2018-01-19 21:01:15.399 ApiUploadFileTasklet::run: Document_uuid =  4c3bc0c9-6592-3b96-8dd9-69c7996dcae3 
+-- 2018-01-19 21:01:15.399 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf 
+-- 2018-01-19 21:01:15.399 ApiUploadFileTasklet::run: Length =  1216538 
+-- 2018-01-19 21:01:15.404 ApiUploadFileTasklet::run: Uploading file Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:15.470 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yuan, Ching - 2014 - Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast.pdf 
+-- 2018-01-19 21:01:16.486 ApiUploadFileTasklet::uploadFileResult: File uploaded 640f39d7-3ce2-cc3b-2e21-a65dd5bda184 
+-- 2018-01-19 21:01:16.490 RemoteFilesProxy::upload: uuid:  47e26600-6ebc-368b-bf27-25712657a07c  sha1:  337a49219a0dbe360531652b6ac4e7122168d075 
+-- 2018-01-19 21:01:16.521 ApiUploadFileTasklet::run: Document_uuid =  47e26600-6ebc-368b-bf27-25712657a07c 
+-- 2018-01-19 21:01:16.521 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida, Nishimura, Kawaguchi - 2005 - Enhanced Hydrogen Production from Formic Acid by Formate Hydrogen Lyase-Overexpressing Escherichi.pdf 
+-- 2018-01-19 21:01:16.521 ApiUploadFileTasklet::run: Length =  204466 
+-- 2018-01-19 21:01:16.522 ApiUploadFileTasklet::run: Uploading file Yoshida, Nishimura, Kawaguchi - 2005 - Enhanced Hydrogen Production from Formic Acid by Formate Hydrogen Lyase-Overexpressing Escherichi.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:16.597 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Feng, Lian, Zhao - 2015 - Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production.pdf 
+-- 2018-01-19 21:01:17.897 ApiUploadFileTasklet::uploadFileResult: File uploaded 6762df9b-11fd-b645-19e9-048b38cda2b0 
+-- 2018-01-19 21:01:17.904 RemoteFilesProxy::upload: uuid:  6f8c9ae8-3a4d-368b-bc1a-adbf784a2454  sha1:  2608033862c9680bd9a683c543a8a131bb6db099 
+-- 2018-01-19 21:01:17.936 ApiUploadFileTasklet::run: Document_uuid =  6f8c9ae8-3a4d-368b-bc1a-adbf784a2454 
+-- 2018-01-19 21:01:17.936 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf 
+-- 2018-01-19 21:01:17.936 ApiUploadFileTasklet::run: Length =  279988 
+-- 2018-01-19 21:01:17.937 ApiUploadFileTasklet::run: Uploading file Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:18.127 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida, Nishimura, Kawaguchi - 2005 - Enhanced Hydrogen Production from Formic Acid by Formate Hydrogen Lyase-Overexpressing Escherichi.pdf 
+-- 2018-01-19 21:01:18.862 ApiUploadFileTasklet::uploadFileResult: File uploaded 62e79b1e-d0bc-8d79-425a-483072ada058 
+-- 2018-01-19 21:01:18.865 RemoteFilesProxy::upload: uuid:  413a4a32-395d-396e-86f6-7a2f49134395  sha1:  131fa90d5108871128a0ba471f8a321336a052d8 
+-- 2018-01-19 21:01:18.896 ApiUploadFileTasklet::run: Document_uuid =  413a4a32-395d-396e-86f6-7a2f49134395 
+-- 2018-01-19 21:01:18.896 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf 
+-- 2018-01-19 21:01:18.896 ApiUploadFileTasklet::run: Length =  623480 
+-- 2018-01-19 21:01:18.899 ApiUploadFileTasklet::run: Uploading file Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:18.974 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2004 - Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate.pdf 
+-- 2018-01-19 21:01:20.654 ApiUploadFileTasklet::uploadFileResult: File uploaded 2de5f0f6-19fd-a3ad-5692-ea030f9d9f2c 
+-- 2018-01-19 21:01:20.658 RemoteFilesProxy::upload: uuid:  10649b6c-91db-32cc-9a54-cf2205f61132  sha1:  e2b69e55bb1ffc79697e5dd54501e42ea4a9c933 
+-- 2018-01-19 21:01:20.689 ApiUploadFileTasklet::run: Document_uuid =  10649b6c-91db-32cc-9a54-cf2205f61132 
+-- 2018-01-19 21:01:20.689 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production (2).pdf 
+-- 2018-01-19 21:01:20.689 ApiUploadFileTasklet::run: Length =  854277 
+-- 2018-01-19 21:01:20.692 ApiUploadFileTasklet::run: Uploading file Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production (2).pdf with mime type application/pdf 
+-- 2018-01-19 21:01:20.767 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shi et al. - 2013 - Activating transhydrogenase and NAD kinase in combination for improving isobutanol production.pdf 
+-- 2018-01-19 21:01:21.632 ApiUploadFileTasklet::uploadFileResult: File uploaded 55daf4db-6858-84c9-7f04-2da8497d9cd4 
+-- 2018-01-19 21:01:21.635 RemoteFilesProxy::upload: uuid:  ab7a7eeb-c52b-3edc-94d9-bb09b23f3356  sha1:  7ab2b57050f6c60a371c36015a196ae2564183b8 
+-- 2018-01-19 21:01:21.667 ApiUploadFileTasklet::run: Document_uuid =  ab7a7eeb-c52b-3edc-94d9-bb09b23f3356 
+-- 2018-01-19 21:01:21.667 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 21:01:21.667 ApiUploadFileTasklet::run: Length =  361882 
+-- 2018-01-19 21:01:21.669 ApiUploadFileTasklet::run: Uploading file Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:21.844 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Hahn - 2015 - Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production (2).pdf 
+-- 2018-01-19 21:01:22.663 ApiUploadFileTasklet::uploadFileResult: File uploaded 553d874b-32c7-7d63-6acb-8bd5ac8d9e00 
+-- 2018-01-19 21:01:22.666 RemoteFilesProxy::upload: uuid:  d82593e4-f701-3f48-ac9e-2c954a34392b  sha1:  e14b49bc9262118caafeaa19472486aec7008ae1 
+-- 2018-01-19 21:01:22.698 ApiUploadFileTasklet::run: Document_uuid =  d82593e4-f701-3f48-ac9e-2c954a34392b 
+-- 2018-01-19 21:01:22.698 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf 
+-- 2018-01-19 21:01:22.698 ApiUploadFileTasklet::run: Length =  640988 
+-- 2018-01-19 21:01:22.701 ApiUploadFileTasklet::run: Uploading file Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:22.768 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiba et al. - 2007 - Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isopreno.pdf 
+-- 2018-01-19 21:01:23.693 ApiUploadFileTasklet::uploadFileResult: File uploaded 11776c9a-0896-25d1-7e9c-2864fdddc95c 
+-- 2018-01-19 21:01:23.722 RemoteFilesProxy::upload: uuid:  694914ff-8feb-3be4-ac68-2b3b0945d568  sha1:  869fd756e3da7670c54e2c6045a6b5c19c822377 
+-- 2018-01-19 21:01:23.752 ApiUploadFileTasklet::run: Document_uuid =  694914ff-8feb-3be4-ac68-2b3b0945d568 
+-- 2018-01-19 21:01:23.752 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf 
+-- 2018-01-19 21:01:23.752 ApiUploadFileTasklet::run: Length =  183458 
+-- 2018-01-19 21:01:23.753 ApiUploadFileTasklet::run: Uploading file Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:23.831 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf 
+-- 2018-01-19 21:01:24.713 ApiUploadFileTasklet::uploadFileResult: File uploaded 179f17f0-49d9-4c5f-12d4-ca379acdc830 
+-- 2018-01-19 21:01:24.718 RemoteFilesProxy::upload: uuid:  005c9eb3-b5f2-30f7-93d7-8059b6837f03  sha1:  6b29ce07ba38a83134aa0e665280b64c88575e52 
+-- 2018-01-19 21:01:24.750 ApiUploadFileTasklet::run: Document_uuid =  005c9eb3-b5f2-30f7-93d7-8059b6837f03 
+-- 2018-01-19 21:01:24.750 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Trinh, Unrean, Srienc - 2008 - Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses.pdf 
+-- 2018-01-19 21:01:24.750 ApiUploadFileTasklet::run: Length =  805107 
+-- 2018-01-19 21:01:24.753 ApiUploadFileTasklet::run: Uploading file Trinh, Unrean, Srienc - 2008 - Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:24.829 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf 
+-- 2018-01-19 21:01:25.811 ApiUploadFileTasklet::uploadFileResult: File uploaded 5ccf6068-fb06-31c5-270d-6c0a37bdc704 
+-- 2018-01-19 21:01:25.815 RemoteFilesProxy::upload: uuid:  98b423a0-61f6-358d-85e0-8bf0cc61e843  sha1:  932bb9342bb0cba1c18243e9190ba35fec1b61c3 
+-- 2018-01-19 21:01:25.845 ApiUploadFileTasklet::run: Document_uuid =  98b423a0-61f6-358d-85e0-8bf0cc61e843 
+-- 2018-01-19 21:01:25.845 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu, San - 2014 - Engineering Escherichia coli for odd straight medium chain free fatty acid production.pdf 
+-- 2018-01-19 21:01:25.845 ApiUploadFileTasklet::run: Length =  607434 
+-- 2018-01-19 21:01:25.848 ApiUploadFileTasklet::run: Uploading file Wu, San - 2014 - Engineering Escherichia coli for odd straight medium chain free fatty acid production.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:25.938 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Trinh, Unrean, Srienc - 2008 - Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses.pdf 
+-- 2018-01-19 21:01:26.629 ApiUploadFileTasklet::uploadFileResult: File uploaded 5bac4127-2b7a-6b7f-3b46-0ddcd4adc5d8 
+-- 2018-01-19 21:01:26.643 RemoteFilesProxy::upload: uuid:  85fb4cd9-d1b5-3aaf-8674-5745da0a4c19  sha1:  92e7e2d6ca13273bb6c96f314da19332dcbf8bd3 
+-- 2018-01-19 21:01:26.673 ApiUploadFileTasklet::run: Document_uuid =  85fb4cd9-d1b5-3aaf-8674-5745da0a4c19 
+-- 2018-01-19 21:01:26.673 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida et al. - 2006 - Enhanced hydrogen production from glucose using ldh- and frd-inactivated Escherichia coli strains.pdf 
+-- 2018-01-19 21:01:26.673 ApiUploadFileTasklet::run: Length =  136134 
+-- 2018-01-19 21:01:26.674 ApiUploadFileTasklet::run: Uploading file Yoshida et al. - 2006 - Enhanced hydrogen production from glucose using ldh- and frd-inactivated Escherichia coli strains.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:26.753 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu, San - 2014 - Engineering Escherichia coli for odd straight medium chain free fatty acid production.pdf 
+-- 2018-01-19 21:01:27.578 ApiUploadFileTasklet::uploadFileResult: File uploaded 34642d8d-0cef-3f4d-63b7-51820e8dc380 
+-- 2018-01-19 21:01:27.582 RemoteFilesProxy::upload: uuid:  06b64de6-2662-3870-a944-20e342d687ea  sha1:  87dcea401bd0993269489cfe46970f020656c9dd 
+-- 2018-01-19 21:01:27.613 ApiUploadFileTasklet::run: Document_uuid =  06b64de6-2662-3870-a944-20e342d687ea 
+-- 2018-01-19 21:01:27.613 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf 
+-- 2018-01-19 21:01:27.613 ApiUploadFileTasklet::run: Length =  5332990 
+-- 2018-01-19 21:01:27.635 ApiUploadFileTasklet::run: Uploading file Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:27.689 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yoshida et al. - 2006 - Enhanced hydrogen production from glucose using ldh- and frd-inactivated Escherichia coli strains.pdf 
+-- 2018-01-19 21:01:30.136 ApiUploadFileTasklet::uploadFileResult: File uploaded 3a2ce940-efa2-7c1b-4f7e-afaf719dc4ac 
+-- 2018-01-19 21:01:30.170 RemoteFilesProxy::upload: uuid:  fdfd2697-0bcf-3cdb-a02c-3be084837744  sha1:  1d508a944ab954ecd90ad1a1132b705f5d5a6c19 
+-- 2018-01-19 21:01:30.202 ApiUploadFileTasklet::run: Document_uuid =  fdfd2697-0bcf-3cdb-a02c-3be084837744 
+-- 2018-01-19 21:01:30.202 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf 
+-- 2018-01-19 21:01:30.202 ApiUploadFileTasklet::run: Length =  354775 
+-- 2018-01-19 21:01:30.203 ApiUploadFileTasklet::run: Uploading file Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:30.380 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xie et al. - 2015 - Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engine.pdf 
+-- 2018-01-19 21:01:31.444 ApiUploadFileTasklet::uploadFileResult: File uploaded 4c26228e-605e-c24d-77ef-f354ab7dc254 
+-- 2018-01-19 21:01:31.449 RemoteFilesProxy::upload: uuid:  13d030a2-5d29-3459-bc02-3f15e902472e  sha1:  208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-19 21:01:31.479 ApiUploadFileTasklet::run: Document_uuid =  13d030a2-5d29-3459-bc02-3f15e902472e 
+-- 2018-01-19 21:01:31.479 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 21:01:31.479 ApiUploadFileTasklet::run: Length =  690082 
+-- 2018-01-19 21:01:31.482 ApiUploadFileTasklet::run: Uploading file Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:31.657 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf 
+-- 2018-01-19 21:01:32.431 ApiUploadFileTasklet::uploadFileResult: File uploaded 3dda708d-4428-d047-2061-36f9e55dbffc 
+-- 2018-01-19 21:01:32.434 RemoteFilesProxy::upload: uuid:  9fa62cb6-5cca-3261-a148-737d11b6d442  sha1:  037ae37e342483c0304942a0499596258157bdbe 
+-- 2018-01-19 21:01:32.466 ApiUploadFileTasklet::run: Document_uuid =  9fa62cb6-5cca-3261-a148-737d11b6d442 
+-- 2018-01-19 21:01:32.466 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiue, Brockman, Prather - 2015 - Improving product yields on D-glucose in Escherichia coli via knockout of pgi and zwf and feeding of s.pdf 
+-- 2018-01-19 21:01:32.466 ApiUploadFileTasklet::run: Length =  437226 
+-- 2018-01-19 21:01:32.468 ApiUploadFileTasklet::run: Uploading file Shiue, Brockman, Prather - 2015 - Improving product yields on D-glucose in Escherichia coli via knockout of pgi and zwf and feeding of s.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:32.726 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf 
+-- 2018-01-19 21:01:34.065 ApiUploadFileTasklet::uploadFileResult: File uploaded 2a88a093-1d84-a7cf-3499-d8cc824dbed0 
+-- 2018-01-19 21:01:34.068 RemoteFilesProxy::upload: uuid:  11495656-f73c-36d3-b5ad-27b509fb4129  sha1:  4a704f57ee857b4c9ef32dbe15dc061948e70715 
+-- 2018-01-19 21:01:34.107 ApiUploadFileTasklet::run: Document_uuid =  11495656-f73c-36d3-b5ad-27b509fb4129 
+-- 2018-01-19 21:01:34.107 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf 
+-- 2018-01-19 21:01:34.107 ApiUploadFileTasklet::run: Length =  1017725 
+-- 2018-01-19 21:01:34.111 ApiUploadFileTasklet::run: Uploading file Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:34.172 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiue, Brockman, Prather - 2015 - Improving product yields on D-glucose in Escherichia coli via knockout of pgi and zwf and feeding of s.pdf 
+-- 2018-01-19 21:01:35.265 ApiUploadFileTasklet::uploadFileResult: File uploaded 6be6adbc-10bd-26b1-0c28-9527486dc128 
+-- 2018-01-19 21:01:35.287 RemoteFilesProxy::upload: uuid:  62398e29-05d9-3abd-9336-0d4b4599459a  sha1:  d177d4b8cab483ec38b6b18b1660181886da1427 
+-- 2018-01-19 21:01:35.317 ApiUploadFileTasklet::run: Document_uuid =  62398e29-05d9-3abd-9336-0d4b4599459a 
+-- 2018-01-19 21:01:35.317 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Na et al. - 2013 - Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs.pdf 
+-- 2018-01-19 21:01:35.317 ApiUploadFileTasklet::run: Length =  999337 
+-- 2018-01-19 21:01:35.321 ApiUploadFileTasklet::run: Uploading file Na et al. - 2013 - Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:35.394 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang, Carothers, Keasling - 2012 - Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty.pdf 
+-- 2018-01-19 21:01:36.497 ApiUploadFileTasklet::uploadFileResult: File uploaded 1492f0d8-5bf4-ea55-7143-be44591dbb4c 
+-- 2018-01-19 21:01:36.500 RemoteFilesProxy::upload: uuid:  5ea07568-67f0-33c3-bbeb-be2105ee8f42  sha1:  26b7f1cd8061b513bed80cdb26fb161d324fbaca 
+-- 2018-01-19 21:01:36.530 ApiUploadFileTasklet::run: Document_uuid =  5ea07568-67f0-33c3-bbeb-be2105ee8f42 
+-- 2018-01-19 21:01:36.530 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 21:01:36.530 ApiUploadFileTasklet::run: Length =  204430 
+-- 2018-01-19 21:01:36.531 ApiUploadFileTasklet::run: Uploading file Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:36.611 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Na et al. - 2013 - Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs.pdf 
+-- 2018-01-19 21:01:37.255 ApiUploadFileTasklet::uploadFileResult: File uploaded 541052da-6824-99ab-48d2-7a9f1f3dbda4 
+-- 2018-01-19 21:01:37.303 RemoteFilesProxy::upload: uuid:  57583e0d-6880-3a93-ba50-4569ffd4077a  sha1:  3381032d7dd23f85d5365a3891e3088026395bae 
+-- 2018-01-19 21:01:37.333 ApiUploadFileTasklet::run: Document_uuid =  57583e0d-6880-3a93-ba50-4569ffd4077a 
+-- 2018-01-19 21:01:37.333 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Alper et al. - 2005 - Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli.pdf 
+-- 2018-01-19 21:01:37.333 ApiUploadFileTasklet::run: Length =  462404 
+-- 2018-01-19 21:01:37.335 ApiUploadFileTasklet::run: Uploading file Alper et al. - 2005 - Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:37.434 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brat, Boles - 2013 - Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 21:01:38.448 ApiUploadFileTasklet::uploadFileResult: File uploaded 166a2c8a-06cb-dcad-19b5-01e992fdb8f4 
+-- 2018-01-19 21:01:38.451 RemoteFilesProxy::upload: uuid:  ee27085c-ad8f-3c24-a82b-0a42759cbf56  sha1:  93bd491fefb2386a293bdf7154215a04389a930f 
+-- 2018-01-19 21:01:38.483 ApiUploadFileTasklet::run: Document_uuid =  ee27085c-ad8f-3c24-a82b-0a42759cbf56 
+-- 2018-01-19 21:01:38.483 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Cordier et al. - 2007 - A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production(2).pdf 
+-- 2018-01-19 21:01:38.483 ApiUploadFileTasklet::run: Length =  669036 
+-- 2018-01-19 21:01:38.486 ApiUploadFileTasklet::run: Uploading file Cordier et al. - 2007 - A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production(2).pdf with mime type application/pdf 
+-- 2018-01-19 21:01:38.568 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Alper et al. - 2005 - Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli.pdf 
+-- 2018-01-19 21:01:39.160 ApiUploadFileTasklet::uploadFileResult: File uploaded 4b8d45ef-2e16-1337-2ded-a3bc2fedb7c8 
+-- 2018-01-19 21:01:39.163 RemoteFilesProxy::upload: uuid:  ff08f5d5-136e-3c38-b992-06273856641b  sha1:  e0c257becc66ee044e0cf0eb4ad6c47a4929cc84 
+-- 2018-01-19 21:01:39.194 ApiUploadFileTasklet::run: Document_uuid =  ff08f5d5-136e-3c38-b992-06273856641b 
+-- 2018-01-19 21:01:39.194 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf 
+-- 2018-01-19 21:01:39.194 ApiUploadFileTasklet::run: Length =  1859432 
+-- 2018-01-19 21:01:39.201 ApiUploadFileTasklet::run: Uploading file Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:39.268 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Cordier et al. - 2007 - A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production(2).pdf 
+-- 2018-01-19 21:01:40.448 ApiUploadFileTasklet::uploadFileResult: File uploaded 6f73bb0a-e6cd-84bf-5d0b-1c71bc2dbc78 
+-- 2018-01-19 21:01:40.451 RemoteFilesProxy::upload: uuid:  48cb2589-f0a5-3b94-9d1c-056ec51a3ad4  sha1:  0dbbd891aaf7aec55c1874701410b4c7808f7676 
+-- 2018-01-19 21:01:40.483 ApiUploadFileTasklet::run: Document_uuid =  48cb2589-f0a5-3b94-9d1c-056ec51a3ad4 
+-- 2018-01-19 21:01:40.483 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae(2).pdf 
+-- 2018-01-19 21:01:40.483 ApiUploadFileTasklet::run: Length =  142270 
+-- 2018-01-19 21:01:40.484 ApiUploadFileTasklet::run: Uploading file Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae(2).pdf with mime type application/pdf 
+-- 2018-01-19 21:01:40.659 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts.pdf 
+-- 2018-01-19 21:01:41.202 ApiUploadFileTasklet::uploadFileResult: File uploaded 2dd4656e-3fed-2983-057c-6016f60dba20 
+-- 2018-01-19 21:01:41.204 RemoteFilesProxy::upload: uuid:  6bd9f7e0-6a67-3cef-b23b-369b344fc7d8  sha1:  5063a654ad073ab786b9e253a36146f754a5c5df 
+-- 2018-01-19 21:01:41.235 ApiUploadFileTasklet::run: Document_uuid =  6bd9f7e0-6a67-3cef-b23b-369b344fc7d8 
+-- 2018-01-19 21:01:41.235 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hanai, Atsumi, Liao - 2007 - Engineered synthetic pathway for isopropanol production in Escherichia coli.pdf 
+-- 2018-01-19 21:01:41.235 ApiUploadFileTasklet::run: Length =  233900 
+-- 2018-01-19 21:01:41.236 ApiUploadFileTasklet::run: Uploading file Hanai, Atsumi, Liao - 2007 - Engineered synthetic pathway for isopropanol production in Escherichia coli.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:41.311 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Overkamp et al. - 2002 - Metabolic engineering of glycerol production in Saccharomyces cerevisiae(2).pdf 
+-- 2018-01-19 21:01:42.216 ApiUploadFileTasklet::uploadFileResult: File uploaded 3b3e5475-b956-24e1-6a97-893406bdb444 
+-- 2018-01-19 21:01:42.220 RemoteFilesProxy::upload: uuid:  30dbc73a-5c6b-3b72-99e3-f10f8030d181  sha1:  efc30d23079ce332a57fa435dceaafde6970a7ae 
+-- 2018-01-19 21:01:42.251 ApiUploadFileTasklet::run: Document_uuid =  30dbc73a-5c6b-3b72-99e3-f10f8030d181 
+-- 2018-01-19 21:01:42.251 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf 
+-- 2018-01-19 21:01:42.251 ApiUploadFileTasklet::run: Length =  1464839 
+-- 2018-01-19 21:01:42.257 ApiUploadFileTasklet::run: Uploading file Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:42.330 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hanai, Atsumi, Liao - 2007 - Engineered synthetic pathway for isopropanol production in Escherichia coli.pdf 
+-- 2018-01-19 21:01:44.144 ApiUploadFileTasklet::uploadFileResult: File uploaded 105d2b48-4770-57df-565e-e76169cdb570 
+-- 2018-01-19 21:01:44.148 RemoteFilesProxy::upload: uuid:  83445007-e9b4-336a-a494-efeea498d277  sha1:  6c1f70907a3aef0ccd059f9916ba10d5d2b9d494 
+-- 2018-01-19 21:01:44.180 ApiUploadFileTasklet::run: Document_uuid =  83445007-e9b4-336a-a494-efeea498d277 
+-- 2018-01-19 21:01:44.180 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tippmann et al. - 2016 - Production of farnesene and santalene by Saccharomyces cerevisiae using fed-batch cultivations with RQ-controll.pdf 
+-- 2018-01-19 21:01:44.180 ApiUploadFileTasklet::run: Length =  771617 
+-- 2018-01-19 21:01:44.183 ApiUploadFileTasklet::run: Uploading file Tippmann et al. - 2016 - Production of farnesene and santalene by Saccharomyces cerevisiae using fed-batch cultivations with RQ-controll.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:44.387 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ida et al. - 2015 - Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by.pdf 
+-- 2018-01-19 21:01:45.148 ApiUploadFileTasklet::uploadFileResult: File uploaded 06ecc8a1-22bd-16ff-7ed0-2b06a3adb318 
+-- 2018-01-19 21:01:45.152 RemoteFilesProxy::upload: uuid:  ed86eb1e-123e-3e55-abee-cc51045db830  sha1:  b07cfbbbf346d04638abce3ad076de0c7f125b8a 
+-- 2018-01-19 21:01:45.187 ApiUploadFileTasklet::run: Document_uuid =  ed86eb1e-123e-3e55-abee-cc51045db830 
+-- 2018-01-19 21:01:45.187 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lee et al. - 2007 - Systems metabolic engineering of Escherichia coli for L-threonine production.pdf 
+-- 2018-01-19 21:01:45.187 ApiUploadFileTasklet::run: Length =  2478033 
+-- 2018-01-19 21:01:45.197 ApiUploadFileTasklet::run: Uploading file Lee et al. - 2007 - Systems metabolic engineering of Escherichia coli for L-threonine production.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:45.254 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tippmann et al. - 2016 - Production of farnesene and santalene by Saccharomyces cerevisiae using fed-batch cultivations with RQ-controll.pdf 
+-- 2018-01-19 21:01:46.519 ApiUploadFileTasklet::uploadFileResult: File uploaded 55b472fe-0106-dd07-4226-458eccddb69c 
+-- 2018-01-19 21:01:46.524 RemoteFilesProxy::upload: uuid:  fbd7f5e3-001f-3d4d-8538-1dde71947779  sha1:  d0a6a2e00710acaf228d76aefc2ff175f9cb2336 
+-- 2018-01-19 21:01:46.555 ApiUploadFileTasklet::run: Document_uuid =  fbd7f5e3-001f-3d4d-8538-1dde71947779 
+-- 2018-01-19 21:01:46.555 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf 
+-- 2018-01-19 21:01:46.555 ApiUploadFileTasklet::run: Length =  653739 
+-- 2018-01-19 21:01:46.558 ApiUploadFileTasklet::run: Uploading file Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:46.762 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lee et al. - 2007 - Systems metabolic engineering of Escherichia coli for L-threonine production.pdf 
+-- 2018-01-19 21:01:47.199 ApiUploadFileTasklet::uploadFileResult: File uploaded 26192528-8c2e-be13-2741-6eabdd8db0c0 
+-- 2018-01-19 21:01:47.202 RemoteFilesProxy::upload: uuid:  56b2e33b-3213-3162-9e61-dfd47bb92301  sha1:  33b26b8636cc2532c714cde69dd6d7268605236d 
+-- 2018-01-19 21:01:47.233 ApiUploadFileTasklet::run: Document_uuid =  56b2e33b-3213-3162-9e61-dfd47bb92301 
+-- 2018-01-19 21:01:47.233 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tang, Feng, Chen - 2013 - Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 21:01:47.234 ApiUploadFileTasklet::run: Length =  548908 
+-- 2018-01-19 21:01:47.236 ApiUploadFileTasklet::run: Uploading file Tang, Feng, Chen - 2013 - Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces cerevisiae.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:47.313 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dueber et al. - 2009 - Synthetic protein scaffolds provide modular control over metabolic flux.pdf 
+-- 2018-01-19 21:01:47.922 ApiUploadFileTasklet::uploadFileResult: File uploaded 78f1b617-3b0f-1c07-1308-ccd9409db1ec 
+-- 2018-01-19 21:01:47.929 RemoteFilesProxy::upload: uuid:  060fabeb-c160-345f-9b3f-8662c3eb9568  sha1:  6df8d119fa78cf93ed9100a79c1b0b96fcc8ca20 
+-- 2018-01-19 21:01:47.961 ApiUploadFileTasklet::run: Document_uuid =  060fabeb-c160-345f-9b3f-8662c3eb9568 
+-- 2018-01-19 21:01:47.961 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Martin et al. - 2003 - Engineering a mevalonate pathway in Escherichia coli for production of terpenoids.pdf 
+-- 2018-01-19 21:01:47.961 ApiUploadFileTasklet::run: Length =  207809 
+-- 2018-01-19 21:01:47.962 ApiUploadFileTasklet::run: Uploading file Martin et al. - 2003 - Engineering a mevalonate pathway in Escherichia coli for production of terpenoids.pdf with mime type application/pdf 
+-- 2018-01-19 21:01:48.140 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tang, Feng, Chen - 2013 - Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces cerevisiae.pdf 
+-- 2018-01-19 21:01:48.893 ApiUploadFileTasklet::uploadFileResult: File uploaded 626d5e5a-4caf-e359-3b7a-107e7a7daf94 
+-- 2018-01-19 21:01:49.000 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Martin et al. - 2003 - Engineering a mevalonate pathway in Escherichia coli for production of terpenoids.pdf 
+-- 2018-01-19 21:01:49.462 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:01:22.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 21:01:49.463 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:01:22.000Z  of type  6  and groupId =  2 
+-- 2018-01-19 21:01:49.464 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:01:22.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 21:01:50.091 SyncQueue::finished: sync completed in 39545 ms 
+-- 2018-01-19 21:01:50.095 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 21:01:50.095 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:01:22.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 21:01:50.095 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:01:22.000Z  of type  7  and groupId =  2 
+-- 2018-01-19 21:01:50.095 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:01:22.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 21:16:36.163 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Blazeck et al. - 2014 - Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production.pdf hash b2ab1eb26ca55fd6ce0933de0d79006450232390 
+-- 2018-01-19 21:16:48.619 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Alper et al. - 2005 - Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli.pdf hash 3381032d7dd23f85d5365a3891e3088026395bae 
+-- 2018-01-19 21:18:06.040 ImportJob::run: About to import file:///C:/Users/Todd Li/Desktop/petsbest.pdf with hash af37dbcdd497514351e5facdbf026056ec3b1e24 
+-- 2018-01-19 21:18:06.405 ImportJob::run: Finished importing file:///C:/Users/Todd Li/Desktop/petsbest.pdf 
+-- 2018-01-19 21:18:06.658 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/petsbest.pdf 
+-- 2018-01-19 21:18:06.908 MetadataFetcherImpl::lookupFailed: Metadata lookup failed 19 86  CatalogLookup Error downloading https://api.mendeley.com/metadata/?title=19 86 &year=2018&filehash=af37dbcdd497514351e5facdbf026056ec3b1e24&authors=Account, Your Customer - server replied: Not Found (status 404) 
+-- 2018-01-19 21:18:06.908 MetadataFetcherImpl::next: Automated metadata lookup for 19 86  returned no results 
+-- 2018-01-19 21:18:09.048 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/petsbest.pdf hash af37dbcdd497514351e5facdbf026056ec3b1e24 
+-- 2018-01-19 21:18:16.703 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 21:18:16.703 SyncQueue::startSync: starting sync 
+-- 2018-01-19 21:18:17.328 SyncQueue::finished: sync completed in 623 ms 
+-- 2018-01-19 21:18:17.328 SyncQueue::startSync: starting sync 
+-- 2018-01-19 21:18:18.783 RemoteDataStore::processNewOrModifiedDocuments: received 30 updated documents from server 
+-- 2018-01-19 21:18:18.927 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:18:18.927 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:51.000Z  of type  3  and groupId =  0 
+-- 2018-01-19 21:18:19.183 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:18:19.183 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:52.000Z  of type  3  and groupId =  1 
+-- 2018-01-19 21:18:19.448 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:18:19.448 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:52.000Z  of type  3  and groupId =  2 
+-- 2018-01-19 21:18:19.713 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:52.000Z  of type  4  and groupId =  0 
+-- 2018-01-19 21:18:19.977 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:52.000Z  of type  4  and groupId =  1 
+-- 2018-01-19 21:18:20.124 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:53.000Z  of type  4  and groupId =  2 
+-- 2018-01-19 21:18:20.378 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:18:20.379 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:53.000Z  of type  5  and groupId =  0 
+-- 2018-01-19 21:18:20.524 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:18:20.524 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:53.000Z  of type  5  and groupId =  1 
+-- 2018-01-19 21:18:20.768 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-19 21:18:20.768 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:53.000Z  of type  5  and groupId =  2 
+-- 2018-01-19 21:18:21.655 PrepareFileSyncQueueSyncAction::start: Group:   Uploading: 1 Downloading: 0 Removing: 0 Examined: 44 documents 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  55daf4db-6858-84c9-7f04-2da8497d9cd4  with existing attachment  e2b69e55bb1ffc79697e5dd54501e42ea4a9c933  for document  10649b6c-91db-32cc-9a54-cf2205f61132 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  553d874b-32c7-7d63-6acb-8bd5ac8d9e00  with existing attachment  7ab2b57050f6c60a371c36015a196ae2564183b8  for document  ab7a7eeb-c52b-3edc-94d9-bb09b23f3356 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  2de5f0f6-19fd-a3ad-5692-ea030f9d9f2c  with existing attachment  131fa90d5108871128a0ba471f8a321336a052d8  for document  413a4a32-395d-396e-86f6-7a2f49134395 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  62e79b1e-d0bc-8d79-425a-483072ada058  with existing attachment  2608033862c9680bd9a683c543a8a131bb6db099  for document  6f8c9ae8-3a4d-368b-bc1a-adbf784a2454 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  640f39d7-3ce2-cc3b-2e21-a65dd5bda184  with existing attachment  cbd15f7b27a232724a6ea4d6866ff2922989ebf7  for document  4c3bc0c9-6592-3b96-8dd9-69c7996dcae3 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  6762df9b-11fd-b645-19e9-048b38cda2b0  with existing attachment  337a49219a0dbe360531652b6ac4e7122168d075  for document  47e26600-6ebc-368b-bf27-25712657a07c 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  16c630cd-6452-bd37-7177-c0e5feeda508  with existing attachment  2d6dab3e45eab133a2b36298b2a08e0e44bdcc56  for document  b2240266-93ea-3061-a00f-15f19405f28f 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  626d5e5a-4caf-e359-3b7a-107e7a7daf94  with existing attachment  6df8d119fa78cf93ed9100a79c1b0b96fcc8ca20  for document  060fabeb-c160-345f-9b3f-8662c3eb9568 
+-- 2018-01-19 21:18:22.253 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  26192528-8c2e-be13-2741-6eabdd8db0c0  with existing attachment  d0a6a2e00710acaf228d76aefc2ff175f9cb2336  for document  fbd7f5e3-001f-3d4d-8538-1dde71947779 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  78f1b617-3b0f-1c07-1308-ccd9409db1ec  with existing attachment  33b26b8636cc2532c714cde69dd6d7268605236d  for document  56b2e33b-3213-3162-9e61-dfd47bb92301 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  06ecc8a1-22bd-16ff-7ed0-2b06a3adb318  with existing attachment  6c1f70907a3aef0ccd059f9916ba10d5d2b9d494  for document  83445007-e9b4-336a-a494-efeea498d277 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  3b3e5475-b956-24e1-6a97-893406bdb444  with existing attachment  5063a654ad073ab786b9e253a36146f754a5c5df  for document  6bd9f7e0-6a67-3cef-b23b-369b344fc7d8 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  105d2b48-4770-57df-565e-e76169cdb570  with existing attachment  efc30d23079ce332a57fa435dceaafde6970a7ae  for document  30dbc73a-5c6b-3b72-99e3-f10f8030d181 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  55b472fe-0106-dd07-4226-458eccddb69c  with existing attachment  b07cfbbbf346d04638abce3ad076de0c7f125b8a  for document  ed86eb1e-123e-3e55-abee-cc51045db830 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  4b8d45ef-2e16-1337-2ded-a3bc2fedb7c8  with existing attachment  93bd491fefb2386a293bdf7154215a04389a930f  for document  ee27085c-ad8f-3c24-a82b-0a42759cbf56 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  166a2c8a-06cb-dcad-19b5-01e992fdb8f4  with existing attachment  3381032d7dd23f85d5365a3891e3088026395bae  for document  57583e0d-6880-3a93-ba50-4569ffd4077a 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  2dd4656e-3fed-2983-057c-6016f60dba20  with existing attachment  0dbbd891aaf7aec55c1874701410b4c7808f7676  for document  48cb2589-f0a5-3b94-9d1c-056ec51a3ad4 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  1492f0d8-5bf4-ea55-7143-be44591dbb4c  with existing attachment  d177d4b8cab483ec38b6b18b1660181886da1427  for document  62398e29-05d9-3abd-9336-0d4b4599459a 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  6f73bb0a-e6cd-84bf-5d0b-1c71bc2dbc78  with existing attachment  e0c257becc66ee044e0cf0eb4ad6c47a4929cc84  for document  ff08f5d5-136e-3c38-b992-06273856641b 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  541052da-6824-99ab-48d2-7a9f1f3dbda4  with existing attachment  26b7f1cd8061b513bed80cdb26fb161d324fbaca  for document  5ea07568-67f0-33c3-bbeb-be2105ee8f42 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  2a88a093-1d84-a7cf-3499-d8cc824dbed0  with existing attachment  037ae37e342483c0304942a0499596258157bdbe  for document  9fa62cb6-5cca-3261-a148-737d11b6d442 
+-- 2018-01-19 21:18:22.254 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  3dda708d-4428-d047-2061-36f9e55dbffc  with existing attachment  208d84f4cc826b28c93516ca83c294e85f79beb7  for document  13d030a2-5d29-3459-bc02-3f15e902472e 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  6be6adbc-10bd-26b1-0c28-9527486dc128  with existing attachment  4a704f57ee857b4c9ef32dbe15dc061948e70715  for document  11495656-f73c-36d3-b5ad-27b509fb4129 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  4c26228e-605e-c24d-77ef-f354ab7dc254  with existing attachment  1d508a944ab954ecd90ad1a1132b705f5d5a6c19  for document  fdfd2697-0bcf-3cdb-a02c-3be084837744 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  34642d8d-0cef-3f4d-63b7-51820e8dc380  with existing attachment  92e7e2d6ca13273bb6c96f314da19332dcbf8bd3  for document  85fb4cd9-d1b5-3aaf-8674-5745da0a4c19 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  3a2ce940-efa2-7c1b-4f7e-afaf719dc4ac  with existing attachment  87dcea401bd0993269489cfe46970f020656c9dd  for document  06b64de6-2662-3870-a944-20e342d687ea 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  5bac4127-2b7a-6b7f-3b46-0ddcd4adc5d8  with existing attachment  932bb9342bb0cba1c18243e9190ba35fec1b61c3  for document  98b423a0-61f6-358d-85e0-8bf0cc61e843 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  5ccf6068-fb06-31c5-270d-6c0a37bdc704  with existing attachment  6b29ce07ba38a83134aa0e665280b64c88575e52  for document  005c9eb3-b5f2-30f7-93d7-8059b6837f03 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  179f17f0-49d9-4c5f-12d4-ca379acdc830  with existing attachment  869fd756e3da7670c54e2c6045a6b5c19c822377  for document  694914ff-8feb-3be4-ac68-2b3b0945d568 
+-- 2018-01-19 21:18:22.255 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  11776c9a-0896-25d1-7e9c-2864fdddc95c  with existing attachment  e14b49bc9262118caafeaa19472486aec7008ae1  for document  d82593e4-f701-3f48-ac9e-2c954a34392b 
+-- 2018-01-19 21:18:22.486 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:54.000Z  of type  1  and groupId =  0 
+-- 2018-01-19 21:18:22.647 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:55.000Z  of type  1  and groupId =  1 
+-- 2018-01-19 21:18:22.806 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:55.000Z  of type  1  and groupId =  2 
+-- 2018-01-19 21:18:22.970 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:55.000Z  of type  2  and groupId =  0 
+-- 2018-01-19 21:18:23.133 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:56.000Z  of type  2  and groupId =  1 
+-- 2018-01-19 21:18:23.300 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:56.000Z  of type  2  and groupId =  2 
+-- 2018-01-19 21:18:23.318 RemoteFilesProxy::upload: uuid:  6d67ab9d-ef14-3379-8019-8c07e6c54281  sha1:  af37dbcdd497514351e5facdbf026056ec3b1e24 
+-- 2018-01-19 21:18:23.319 ApiUploadFileTasklet::run: Document_uuid =  6d67ab9d-ef14-3379-8019-8c07e6c54281 
+-- 2018-01-19 21:18:23.319 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/Desktop/petsbest.pdf 
+-- 2018-01-19 21:18:23.319 ApiUploadFileTasklet::run: Length =  166445 
+-- 2018-01-19 21:18:23.320 ApiUploadFileTasklet::run: Uploading file petsbest.pdf with mime type application/pdf 
+-- 2018-01-19 21:18:24.398 ApiUploadFileTasklet::uploadFileResult: File uploaded 0af3c5b8-c11d-4c07-00d0-2391105fba3c 
+-- 2018-01-19 21:18:24.554 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/petsbest.pdf 
+-- 2018-01-19 21:18:24.947 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:57.000Z  of type  6  and groupId =  1 
+-- 2018-01-19 21:18:24.965 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:57.000Z  of type  6  and groupId =  2 
+-- 2018-01-19 21:18:24.967 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:57.000Z  of type  6  and groupId =  0 
+-- 2018-01-19 21:18:25.677 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:58.000Z  of type  7  and groupId =  1 
+-- 2018-01-19 21:18:25.680 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:58.000Z  of type  7  and groupId =  2 
+-- 2018-01-19 21:18:25.680 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-19T21:17:58.000Z  of type  7  and groupId =  0 
+-- 2018-01-19 21:18:26.074 SyncQueue::finished: sync completed in 8745 ms 
+-- 2018-01-19 21:18:26.082 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-19 21:19:59.722 PdfnetQtTools::handleException: PDFTron exception c:\Jenkins\live\workspace\desktop.release.qt5.windows\src\pdfViewer\PdfnetPdfBackend.cpp:48 (bool __thiscall PdfnetPdfBackend::openFile(const class QString &,class PdfPasswordProvider *)) Header not found Parser.cpp 692 trn::SDF::Parser::SkipHeader 
+-- 2018-01-19 21:20:55.545 CrashHandler::notifyShutdown: shutting down version 1.17.13 

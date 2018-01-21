@@ -1,0 +1,52 @@
+
+-- 2018-01-21 04:45:39.170 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-21 04:45:39.171 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-21 04:45:39.171 CrashHandler::notifyStartup: run count 14 crash count 0 
+-- 2018-01-21 04:45:39.184 main: startup took 363 ms 
+-- 2018-01-21 04:45:45.055 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-21 04:45:45.055 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-21 04:45:46.514 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-21 04:45:46.514 SyncQueue::startSync: starting sync 
+-- 2018-01-21 04:45:47.620 SyncQueue::finished: sync completed in 1105 ms 
+-- 2018-01-21 04:45:47.621 SyncQueue::startSync: starting sync 
+-- 2018-01-21 04:45:48.423 OpenApiRequest::handleApiError: /folders/ Status 409 Trace ID V3gsMAxk0sM 
+-- 2018-01-21 04:45:48.423 NetworkReply::logResponse: 409 POST https://api.mendeley.com/folders/ 
+-- 2018-01-21 04:45:48.423 NetworkReply::logResponse: 12 Error: Error downloading https://api.mendeley.com/folders/ - server replied: Conflict 
+-- 2018-01-21 04:45:48.423 NetworkReply::logResponse: 12 Headers: Content-Type: application/json; charset=utf-8, Date: Sun, 21 Jan 2018 04:45:19 GMT, X-Mendeley-Trace-Id: V3gsMAxk0sM, Content-Length: 70, Connection: keep-alive 
+-- 2018-01-21 04:45:48.423 NetworkReply::logResponse: 12 Body: {"message":"You can't create a folder with the same parent and name."} 
+-- 2018-01-21 04:45:49.377 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-21 04:45:49.377 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:20.000Z  of type  3  and groupId =  1 
+-- 2018-01-21 04:45:49.655 RemoteDataStore::processNewOrModifiedDocuments: received 3 updated documents from server 
+-- 2018-01-21 04:45:49.936 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-21 04:45:49.937 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:20.000Z  of type  3  and groupId =  0 
+-- 2018-01-21 04:45:50.209 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-21 04:45:50.210 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:21.000Z  of type  3  and groupId =  2 
+-- 2018-01-21 04:45:51.229 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:21.000Z  of type  4  and groupId =  1 
+-- 2018-01-21 04:45:51.501 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:22.000Z  of type  4  and groupId =  0 
+-- 2018-01-21 04:45:51.768 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:22.000Z  of type  4  and groupId =  2 
+-- 2018-01-21 04:45:52.030 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-21 04:45:52.031 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:23.000Z  of type  5  and groupId =  1 
+-- 2018-01-21 04:45:52.295 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-21 04:45:52.295 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:23.000Z  of type  5  and groupId =  0 
+-- 2018-01-21 04:45:52.440 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-21 04:45:52.440 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:23.000Z  of type  5  and groupId =  2 
+-- 2018-01-21 04:45:52.945 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:24.000Z  of type  1  and groupId =  1 
+-- 2018-01-21 04:45:53.357 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  452f6ced-305c-64a9-078c-44fa9c728a04  with existing attachment  69c25ea8398fb188bf7901cbde6ee42c1a77cee6  for document  aced41ed-e20d-3650-baa4-9d55726a9540 
+-- 2018-01-21 04:45:53.623 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:24.000Z  of type  1  and groupId =  0 
+-- 2018-01-21 04:45:53.889 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:25.000Z  of type  1  and groupId =  2 
+-- 2018-01-21 04:45:54.032 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:25.000Z  of type  2  and groupId =  1 
+-- 2018-01-21 04:45:54.285 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:25.000Z  of type  2  and groupId =  0 
+-- 2018-01-21 04:45:54.547 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:25.000Z  of type  2  and groupId =  2 
+-- 2018-01-21 04:45:55.221 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:26.000Z  of type  6  and groupId =  1 
+-- 2018-01-21 04:45:55.227 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:26.000Z  of type  6  and groupId =  2 
+-- 2018-01-21 04:45:55.250 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:26.000Z  of type  6  and groupId =  0 
+-- 2018-01-21 04:45:55.883 SyncQueue::finished: sync completed in 8261 ms 
+-- 2018-01-21 04:45:55.900 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-21 04:45:55.900 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:26.000Z  of type  7  and groupId =  1 
+-- 2018-01-21 04:45:55.901 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:26.000Z  of type  7  and groupId =  2 
+-- 2018-01-21 04:45:55.902 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-21T04:45:26.000Z  of type  7  and groupId =  0 
+-- 2018-01-21 04:46:05.570 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf hash bc1c484405fd83a95647a0bc524bed47dcfa901e 
+-- 2018-01-21 04:46:08.165 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf hash e14b49bc9262118caafeaa19472486aec7008ae1 
+-- 2018-01-21 04:46:11.765 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf hash 869fd756e3da7670c54e2c6045a6b5c19c822377 
+-- 2018-01-21 04:46:17.343 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Trinh, Unrean, Srienc - 2008 - Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses.pdf hash 6b29ce07ba38a83134aa0e665280b64c88575e52 
+-- 2018-01-21 04:46:33.592 CrashHandler::notifyShutdown: shutting down version 1.17.13 

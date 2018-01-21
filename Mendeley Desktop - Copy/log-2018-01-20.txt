@@ -1,0 +1,413 @@
+
+-- 2018-01-20 02:46:15.488 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-20 02:46:15.488 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-20 02:46:15.488 CrashHandler::notifyStartup: run count 8 crash count 0 
+-- 2018-01-20 02:46:15.492 main: startup took 89 ms 
+-- 2018-01-20 02:46:19.836 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-20 02:46:19.836 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-20 02:46:21.299 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 02:46:21.300 SyncQueue::startSync: starting sync 
+-- 2018-01-20 02:46:22.397 SyncQueue::finished: sync completed in 1097 ms 
+-- 2018-01-20 02:46:22.397 SyncQueue::startSync: starting sync 
+-- 2018-01-20 02:46:23.328 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:23.328 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:55.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 02:46:23.489 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-20 02:46:23.656 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:23.656 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:55.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 02:46:23.809 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:23.809 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:56.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 02:46:23.962 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:56.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 02:46:24.109 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:56.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 02:46:24.255 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:56.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 02:46:24.403 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:24.403 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:56.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 02:46:24.942 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:24.942 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:57.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 02:46:25.094 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:25.094 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:57.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 02:46:26.094 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:58.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 02:46:26.260 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  0af3c5b8-c11d-4c07-00d0-2391105fba3c  with existing attachment  af37dbcdd497514351e5facdbf026056ec3b1e24  for document  6d67ab9d-ef14-3379-8019-8c07e6c54281 
+-- 2018-01-20 02:46:26.418 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:58.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 02:46:26.844 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:59.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 02:46:27.273 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:45:59.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 02:46:27.506 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:00.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 02:46:27.780 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:00.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 02:46:29.064 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:00.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 02:46:29.065 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:00.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 02:46:29.066 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:01.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 02:46:30.025 SyncQueue::finished: sync completed in 7627 ms 
+-- 2018-01-20 02:46:30.042 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 02:46:30.043 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:01.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 02:46:30.043 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:01.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 02:46:30.043 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:02.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 02:46:40.049 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 02:46:40.049 SyncQueue::startSync: starting sync 
+-- 2018-01-20 02:46:40.579 SyncQueue::finished: sync completed in 529 ms 
+-- 2018-01-20 02:46:40.580 SyncQueue::startSync: starting sync 
+-- 2018-01-20 02:46:41.232 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:41.233 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:13.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 02:46:41.374 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-20 02:46:41.621 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:41.621 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:13.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 02:46:41.757 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:41.758 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:14.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 02:46:42.029 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:14.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 02:46:42.159 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:14.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 02:46:42.286 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:14.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 02:46:42.410 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:42.410 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:14.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 02:46:42.550 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:42.550 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 02:46:42.680 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:46:42.680 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 02:46:42.819 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 02:46:42.950 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 02:46:43.079 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 02:46:43.210 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 02:46:43.346 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 02:46:43.478 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:15.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 02:46:44.138 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:16.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 02:46:44.139 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:16.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 02:46:44.140 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:16.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 02:46:44.551 SyncQueue::finished: sync completed in 3971 ms 
+-- 2018-01-20 02:46:44.554 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 02:46:44.554 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:16.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 02:46:44.554 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:16.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 02:46:44.554 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:46:17.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 02:49:15.861 ZoteroImportPlugin::findZoteroDatabase: Zotero path: C:\Users\Todd Li\AppData\Roaming/Mozilla/Firefox/Profiles/1khgwxyl.default/zotero/zotero.sqlite 
+-- 2018-01-20 02:49:15.867 ZoteroImportPlugin::findZoteroDatabase: File:  C:\Users\Todd Li\AppData\Roaming/Mozilla/Firefox/Profiles/1khgwxyl.default/zotero/zotero.sqlite is not readable 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Platform: Windows-6.2 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Proxy Type: NoProxy 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Proxy Server:  
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Proxy Port: 0 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Proxy User:  
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Proxy Has Password: false 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: verify depth 0 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: verify mode 3 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: cert 0 *.mendeley.com :06:89:c4:1b:6f:7b:12:9c:c2:58:af:2f:a6:20:49:61:33:45:af is valid? 1 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: cert 1 Trustwave Organization Validation SHA256 CA, Level 1 :4b:2c:66:46:f4:34:77:5b:67:df:34:a0:4d:d5:04:e6 is valid? 1 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Connecting to api.mendeley.com (secure: 1, backend: Qt) - OK  Done (401) 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: No SSL config 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Connecting to api.mendeley.com (secure: 1, backend: Platform) - OK  Done (401) 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: verify depth 0 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: verify mode 3 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Connecting to s3.amazonaws.com (secure: 0, backend: Qt) - OK  Done (307) 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: No SSL config 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Connecting to s3.amazonaws.com (secure: 0, backend: Platform) - OK  Done (307) 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: verify depth 0 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: verify mode 3 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: cert 0 s3.amazonaws.com :02:ed:ff:16:b3:e2:32:41:47:ea:d9:13:0f:be:0a:c7 is valid? 1 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: cert 1 DigiCert Baltimore CA-2 G2 (www.digicert.com) :01:82:f8:09:8e:a2:e6:26:b9:1a:3b:27:84:1f:b9:af is valid? 1 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Connecting to s3.amazonaws.com (secure: 1, backend: Qt) - OK  Done (307) 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: No SSL config 
+-- 2018-01-20 02:49:16.845 ConnectionTester::testDone: Connecting to s3.amazonaws.com (secure: 1, backend: Platform) - OK  Done (307) 
+-- 2018-01-20 02:50:13.589 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Na et al. - 2013 - Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs.pdf hash d177d4b8cab483ec38b6b18b1660181886da1427 
+-- 2018-01-20 02:53:35.196 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 02:53:35.196 SyncQueue::startSync: starting sync 
+-- 2018-01-20 02:53:36.114 SyncQueue::finished: sync completed in 909 ms 
+-- 2018-01-20 02:53:36.114 SyncQueue::startSync: starting sync 
+-- 2018-01-20 02:53:36.796 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:53:36.796 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:09.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 02:53:36.954 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:53:36.954 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:09.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 02:53:37.087 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:53:37.087 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:09.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 02:53:37.223 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:09.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 02:53:37.354 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:09.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 02:53:37.480 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:09.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 02:53:37.722 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:53:37.722 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:10.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 02:53:37.848 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:53:37.848 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:10.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 02:53:37.991 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 02:53:37.991 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:10.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 02:53:38.514 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:10.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 02:53:38.777 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:11.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 02:53:38.910 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:11.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 02:53:39.042 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:11.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 02:53:39.174 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:11.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 02:53:39.306 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:11.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 02:53:39.715 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:11.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 02:53:39.720 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:12.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 02:53:39.743 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:12.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 02:53:40.363 SyncQueue::finished: sync completed in 4248 ms 
+-- 2018-01-20 02:53:40.406 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 02:53:40.406 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:12.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 02:53:40.406 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:12.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 02:53:40.406 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T02:53:12.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 02:53:43.071 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-20 03:31:56.112 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-20 03:31:56.112 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-20 03:31:56.112 CrashHandler::notifyStartup: run count 9 crash count 0 
+-- 2018-01-20 03:31:56.127 main: startup took 109 ms 
+-- 2018-01-20 03:31:59.985 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-20 03:31:59.985 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-20 03:32:01.485 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:32:01.485 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:32:02.410 SyncQueue::finished: sync completed in 924 ms 
+-- 2018-01-20 03:32:02.410 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:32:03.040 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:32:03.040 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:35.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 03:32:03.177 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-20 03:32:03.318 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:32:03.318 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:35.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 03:32:03.451 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:32:03.451 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:35.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 03:32:03.581 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 03:32:03.711 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 03:32:03.839 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 03:32:03.965 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:32:03.965 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 03:32:04.095 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:32:04.095 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 03:32:04.222 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:32:04.222 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 03:32:04.366 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 03:32:04.498 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:36.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 03:32:04.629 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 03:32:04.759 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 03:32:04.888 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 03:32:05.017 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 03:32:05.432 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 03:32:05.434 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 03:32:05.435 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:37.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 03:32:05.842 SyncQueue::finished: sync completed in 3432 ms 
+-- 2018-01-20 03:32:05.846 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:32:05.846 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:38.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 03:32:05.847 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:38.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 03:32:05.847 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:31:38.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 03:32:18.518 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf hash e14b49bc9262118caafeaa19472486aec7008ae1 
+-- 2018-01-20 03:34:01.454 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jojima, Inui, Yukawa - 2008 - Production of isopropanol by metabolically engineered Escherichia coli.pdf hash 869fd756e3da7670c54e2c6045a6b5c19c822377 
+-- 2018-01-20 03:47:19.900 ImportJob::run: About to import file:///C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf with hash bc1c484405fd83a95647a0bc524bed47dcfa901e 
+-- 2018-01-20 03:47:20.443 ImportJob::run: Finished importing file:///C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf 
+-- 2018-01-20 03:47:20.823 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf 
+-- 2018-01-20 03:47:20.982 MetadataFetcherImpl::next: Automated metadata lookup for Opinion Word Expansion and Target Extraction through Double Propagation succeeded 
+-- 2018-01-20 03:47:23.706 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf hash bc1c484405fd83a95647a0bc524bed47dcfa901e 
+-- 2018-01-20 03:47:55.196 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:47:55.196 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:47:55.712 SyncQueue::finished: sync completed in 511 ms 
+-- 2018-01-20 03:47:55.712 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:47:56.331 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:47:56.332 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:28.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 03:47:56.579 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:47:56.579 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 03:47:56.738 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:47:56.738 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 03:47:56.883 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 03:47:57.013 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 03:47:57.135 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 03:47:57.290 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:47:57.291 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 03:47:57.411 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:47:57.411 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 03:47:57.568 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:47:57.568 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:29.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 03:47:58.347 PrepareFileSyncQueueSyncAction::start: Group:   Uploading: 1 Downloading: 0 Removing: 0 Examined: 45 documents 
+-- 2018-01-20 03:47:58.474 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:30.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 03:47:58.610 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:31.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 03:47:58.738 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:31.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 03:47:58.873 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:31.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 03:47:59.001 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:31.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 03:47:59.136 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:31.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 03:47:59.139 RemoteFilesProxy::upload: uuid:  7c36b85b-b57f-314c-a055-2d3d051fec81  sha1:  bc1c484405fd83a95647a0bc524bed47dcfa901e 
+-- 2018-01-20 03:47:59.140 ApiUploadFileTasklet::run: Document_uuid =  7c36b85b-b57f-314c-a055-2d3d051fec81 
+-- 2018-01-20 03:47:59.140 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf 
+-- 2018-01-20 03:47:59.140 ApiUploadFileTasklet::run: Length =  316561 
+-- 2018-01-20 03:47:59.141 ApiUploadFileTasklet::run: Uploading file Opinion Word Expansion and Target.pdf with mime type application/pdf 
+-- 2018-01-20 03:48:00.260 ApiUploadFileTasklet::uploadFileResult: File uploaded 441a7f6c-7ae6-99a7-75f7-c55d6b1169bc 
+-- 2018-01-20 03:48:00.377 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf 
+-- 2018-01-20 03:48:00.791 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:32.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 03:48:00.792 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:33.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 03:48:00.794 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:33.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 03:48:01.317 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:33.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 03:48:01.322 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:33.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 03:48:01.322 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:47:33.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 03:48:03.569 SyncQueue::finished: sync completed in 7855 ms 
+-- 2018-01-20 03:48:03.580 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:48:05.788 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-20 03:50:00.981 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-20 03:50:00.981 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-20 03:50:00.981 CrashHandler::notifyStartup: run count 10 crash count 0 
+-- 2018-01-20 03:50:00.981 main: startup took 94 ms 
+-- 2018-01-20 03:50:04.739 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-20 03:50:04.739 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-20 03:50:06.239 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:50:06.239 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:50:07.193 SyncQueue::finished: sync completed in 951 ms 
+-- 2018-01-20 03:50:07.193 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:50:07.448 RemoteDataStore::processModifiedFolder: folder 768ef129-8393-4a20-8128-fd1785d6e874 was modified on server 
+-- 2018-01-20 03:50:07.862 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-20 03:50:08.030 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:50:08.030 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:40.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 03:50:08.163 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:50:08.163 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:40.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 03:50:08.292 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:50:08.292 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:40.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 03:50:08.423 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:40.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 03:50:08.546 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:40.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 03:50:08.672 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:41.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 03:50:08.795 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:50:08.796 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:41.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 03:50:08.919 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:50:08.920 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:41.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 03:50:09.045 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:50:09.045 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:41.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 03:50:09.471 ApiAddedFilesSinceTasklet::getFilesListResult: associating file  441a7f6c-7ae6-99a7-75f7-c55d6b1169bc  with existing attachment  bc1c484405fd83a95647a0bc524bed47dcfa901e  for document  7c36b85b-b57f-314c-a055-2d3d051fec81 
+-- 2018-01-20 03:50:09.611 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:41.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 03:50:09.742 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 03:50:09.872 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 03:50:10.004 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 03:50:10.135 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 03:50:10.266 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 03:50:10.959 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 03:50:10.960 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:42.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 03:50:10.962 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:43.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 03:50:11.452 SyncQueue::finished: sync completed in 4257 ms 
+-- 2018-01-20 03:50:11.456 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:50:11.456 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:43.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 03:50:11.456 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:43.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 03:50:11.456 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:49:43.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 03:50:21.197 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/Opinion Word Expansion and Target.pdf hash bc1c484405fd83a95647a0bc524bed47dcfa901e 
+-- 2018-01-20 03:50:50.970 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-20 03:51:44.714 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-20 03:51:44.714 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-20 03:51:44.714 CrashHandler::notifyStartup: run count 11 crash count 0 
+-- 2018-01-20 03:51:44.714 main: startup took 110 ms 
+-- 2018-01-20 03:51:48.446 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-20 03:51:48.446 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-20 03:51:49.945 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:51:49.945 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:51:51.585 SyncQueue::finished: sync completed in 1638 ms 
+-- 2018-01-20 03:51:51.585 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:51:52.503 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:51:52.503 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:24.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 03:51:52.637 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:51:52.637 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 03:51:52.757 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:51:52.758 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 03:51:52.882 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 03:51:53.008 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 03:51:53.136 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 03:51:53.255 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:51:53.255 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 03:51:53.376 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:51:53.376 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 03:51:53.498 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:51:53.498 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:25.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 03:51:53.993 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:26.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 03:51:54.121 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:26.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 03:51:54.250 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:26.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 03:51:54.374 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:26.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 03:51:54.499 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:26.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 03:51:54.625 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 03:51:55.034 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 03:51:55.034 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 03:51:55.035 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 03:51:55.082 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/petsbest.pdf hash af37dbcdd497514351e5facdbf026056ec3b1e24 
+-- 2018-01-20 03:51:55.589 SyncQueue::finished: sync completed in 4004 ms 
+-- 2018-01-20 03:51:55.594 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:51:55.594 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 03:51:55.594 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 03:51:55.594 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:51:27.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 03:52:19.787 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sekar, Shin, Chen - 2012 - Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism.pdf hash e14b49bc9262118caafeaa19472486aec7008ae1 
+-- 2018-01-20 03:52:36.809 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-20 03:52:56.183 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-20 03:52:56.183 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-20 03:52:56.183 CrashHandler::notifyStartup: run count 12 crash count 0 
+-- 2018-01-20 03:52:56.183 main: startup took 94 ms 
+-- 2018-01-20 03:52:59.953 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-20 03:52:59.953 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-20 03:53:01.459 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:53:01.459 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:53:02.426 SyncQueue::finished: sync completed in 966 ms 
+-- 2018-01-20 03:53:02.426 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:53:02.679 RemoteDataStore::processModifiedFolder: folder eb8965ac-2d00-462b-b5a9-f78237e79410 was modified on server 
+-- 2018-01-20 03:53:03.072 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-20 03:53:03.204 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:53:03.204 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:35.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 03:53:03.352 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:53:03.353 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:35.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 03:53:03.481 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:53:03.481 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:35.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 03:53:03.607 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:36.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 03:53:03.731 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:36.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 03:53:04.252 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:36.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 03:53:04.448 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:53:04.448 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:36.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 03:53:04.575 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:53:04.575 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:37.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 03:53:04.699 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:53:04.699 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:37.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 03:53:05.456 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:37.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 03:53:05.588 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 03:53:05.718 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 03:53:05.851 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 03:53:05.980 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 03:53:06.111 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 03:53:06.636 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 03:53:06.638 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:38.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 03:53:06.639 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:39.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 03:53:07.187 SyncQueue::finished: sync completed in 4759 ms 
+-- 2018-01-20 03:53:07.217 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:53:07.217 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:39.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 03:53:07.217 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:39.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 03:53:07.218 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:52:39.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 03:53:07.587 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf hash 1d508a944ab954ecd90ad1a1132b705f5d5a6c19 
+-- 2018-01-20 03:53:20.163 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf hash 1d508a944ab954ecd90ad1a1132b705f5d5a6c19 
+-- 2018-01-20 03:53:59.713 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast.pdf hash 1d508a944ab954ecd90ad1a1132b705f5d5a6c19 
+-- 2018-01-20 03:55:33.506 ImportJob::run: About to import file:///C:/Users/Todd Li/Desktop/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf with hash 69c25ea8398fb188bf7901cbde6ee42c1a77cee6 
+-- 2018-01-20 03:55:33.850 ImportJob::run: Finished importing file:///C:/Users/Todd Li/Desktop/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf 
+-- 2018-01-20 03:55:34.081 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf 
+-- 2018-01-20 03:55:34.253 MetadataFetcherImpl::next: Automated metadata lookup for Production of the antimalarial drug precursor artemisinic acid in engineered yeast succeeded 
+-- 2018-01-20 03:55:38.548 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/Desktop/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf hash 69c25ea8398fb188bf7901cbde6ee42c1a77cee6 
+-- 2018-01-20 03:55:48.816 CrashHandler::notifyShutdown: shutting down version 1.17.13 
+-- 2018-01-20 03:56:40.827 CrashHandler::notifyStartup: starting up version 1.17.13 
+-- 2018-01-20 03:56:40.827 CrashHandler::notifyStartup: last run exited cleanly 
+-- 2018-01-20 03:56:40.827 CrashHandler::notifyStartup: run count 13 crash count 0 
+-- 2018-01-20 03:56:40.843 main: startup took 109 ms 
+-- 2018-01-20 03:56:44.561 WordPluginInstaller::logInstallMessage: Using default Word startup path: C:/Users/Todd Li/AppData/Roaming/Microsoft/Word/STARTUP 
+-- 2018-01-20 03:56:44.561 WordPluginInstaller::logInstallMessage:   ...from registry key: SOFTWARE\Microsoft\Office\16.0\Common\General 
+-- 2018-01-20 03:56:46.059 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:56:46.059 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:56:47.347 SyncQueue::finished: sync completed in 1287 ms 
+-- 2018-01-20 03:56:47.347 SyncQueue::startSync: starting sync 
+-- 2018-01-20 03:56:47.982 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:56:47.982 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:20.000Z  of type  3  and groupId =  0 
+-- 2018-01-20 03:56:48.117 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:56:48.117 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:20.000Z  of type  3  and groupId =  1 
+-- 2018-01-20 03:56:48.243 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:56:48.243 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:20.000Z  of type  3  and groupId =  2 
+-- 2018-01-20 03:56:48.374 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:20.000Z  of type  4  and groupId =  0 
+-- 2018-01-20 03:56:48.509 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:20.000Z  of type  4  and groupId =  1 
+-- 2018-01-20 03:56:48.635 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:21.000Z  of type  4  and groupId =  2 
+-- 2018-01-20 03:56:48.844 RemoteDataStore::processNewOrModifiedDocuments: received 1 updated documents from server 
+-- 2018-01-20 03:56:48.974 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:56:48.974 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:21.000Z  of type  5  and groupId =  0 
+-- 2018-01-20 03:56:49.101 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:56:49.101 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:21.000Z  of type  5  and groupId =  1 
+-- 2018-01-20 03:56:49.227 RemoteDataStore::processNewOrModifiedDocuments: received 0 updated documents from server 
+-- 2018-01-20 03:56:49.227 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:21.000Z  of type  5  and groupId =  2 
+-- 2018-01-20 03:56:50.171 PrepareFileSyncQueueSyncAction::start: Group:   Uploading: 1 Downloading: 0 Removing: 0 Examined: 46 documents 
+-- 2018-01-20 03:56:50.342 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:22.000Z  of type  1  and groupId =  0 
+-- 2018-01-20 03:56:50.473 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:22.000Z  of type  1  and groupId =  1 
+-- 2018-01-20 03:56:50.603 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:23.000Z  of type  1  and groupId =  2 
+-- 2018-01-20 03:56:50.731 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:23.000Z  of type  2  and groupId =  0 
+-- 2018-01-20 03:56:50.861 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:23.000Z  of type  2  and groupId =  1 
+-- 2018-01-20 03:56:50.991 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:23.000Z  of type  2  and groupId =  2 
+-- 2018-01-20 03:56:50.994 RemoteFilesProxy::upload: uuid:  aced41ed-e20d-3650-baa4-9d55726a9540  sha1:  69c25ea8398fb188bf7901cbde6ee42c1a77cee6 
+-- 2018-01-20 03:56:50.995 ApiUploadFileTasklet::run: Document_uuid =  aced41ed-e20d-3650-baa4-9d55726a9540 
+-- 2018-01-20 03:56:50.995 ApiUploadFileTasklet::run: Url =  file:///C:/Users/Todd Li/Desktop/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf 
+-- 2018-01-20 03:56:50.995 ApiUploadFileTasklet::run: Length =  339608 
+-- 2018-01-20 03:56:50.997 ApiUploadFileTasklet::run: Uploading file Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf with mime type application/pdf 
+-- 2018-01-20 03:56:52.974 ApiUploadFileTasklet::uploadFileResult: File uploaded 452f6ced-305c-64a9-078c-44fa9c728a04 
+-- 2018-01-20 03:56:53.189 SqliteSearchEngine::IndexFileTask::run: Indexing file C:/Users/Todd Li/Desktop/Ro et al. - 2006 - Production of the antimalarial drug precursor artemisinic acid in engineered yeast-annotated.pdf 
+-- 2018-01-20 03:56:53.446 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:25.000Z  of type  6  and groupId =  1 
+-- 2018-01-20 03:56:53.448 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:25.000Z  of type  6  and groupId =  2 
+-- 2018-01-20 03:56:53.449 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:25.000Z  of type  6  and groupId =  0 
+-- 2018-01-20 03:56:54.098 SyncQueue::finished: sync completed in 6750 ms 
+-- 2018-01-20 03:56:54.105 ExceptionCleanupQuery::exec: query INSERT OR REPLACE INTO SchemaVersion VALUES (:key, :value) modified 1 rows 
+-- 2018-01-20 03:56:54.105 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:26.000Z  of type  7  and groupId =  1 
+-- 2018-01-20 03:56:54.105 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:26.000Z  of type  7  and groupId =  2 
+-- 2018-01-20 03:56:54.105 SyncTokenMapper::setSyncTokenFromISODate: Saving sync Token  2018-01-20T03:56:26.000Z  of type  7  and groupId =  0 
+-- 2018-01-20 03:57:30.382 PdfViewer::PdfViewer: creating viewer for C:/Users/Todd Li/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Leber, Da Silva - 2014 - Engineering of Saccharomyces cerevisiae for the synthesis of short chain fatty acids.pdf hash 208d84f4cc826b28c93516ca83c294e85f79beb7 
+-- 2018-01-20 03:57:51.215 CrashHandler::notifyShutdown: shutting down version 1.17.13 
